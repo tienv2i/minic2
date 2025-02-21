@@ -12,6 +12,9 @@ class Request
     protected array $server;
     protected array $files;
     protected array $cookies;
+    protected string $controller = 'home';
+    protected string $action = 'index';
+    protected array $params = [];
 
     public function __construct()
     {
@@ -23,6 +26,24 @@ class Request
         $this->server = $_SERVER;
         $this->files = $_FILES ?? [];
         $this->cookies = $_COOKIE ?? [];
+        
+        $this->parseUri();
+    }
+
+    private function parseUri(): void
+    {
+        $scriptName = $_SERVER['SCRIPT_NAME'];
+        $path = trim(str_replace($scriptName, '', $this->uri), '/');
+        $segments = explode('/', $path);
+        
+        if (!empty($segments[0])) {
+            $this->controller = $segments[0];
+        }
+        if (!empty($segments[1])) {
+            $this->action = $segments[1];
+        }
+        
+        $this->params = array_slice($segments, 2);
     }
 
     public function getMethod(): string
@@ -63,5 +84,24 @@ class Request
     public function getCookies(): array
     {
         return $this->cookies;
+    }
+
+    public function getController(): string
+    {
+        return $this->controller;
+    }
+
+    public function getAction(): string
+    {
+        return $this->action;
+    }
+
+    public function getParams(): array
+    {
+        return $this->params;
+    }
+    public function getControllerClass(): string
+    {
+        return str_replace(' ', '', ucwords(str_replace('_', ' ', $this->controller))).'Controller';
     }
 }
