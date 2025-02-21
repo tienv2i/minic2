@@ -38,7 +38,8 @@ class Router {
             echo "Action not found.";
             return;
         }
-        
-        call_user_func_array([$controller, $actionName], $request->getParams());
+        call_user_func_array([$controller, $actionName], 
+            ['app' => Bootstrap::getInstance(), ...$request->getParams()]
+        );
     }
 }

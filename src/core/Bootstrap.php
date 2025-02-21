@@ -1,12 +1,15 @@
 <?php
 namespace Minic2\Core;
-use Minic2\Core\Http\Request;
+use Minic2\Core\Http;
 
 class Bootstrap {
     protected static $instance;
-    private $router, $request;
+    private $router;
+    public $request, $response;
     public function __construct () {
-        $this->request = new Request();
+        Config::load('app');
+        $this->request = new Http\Request();
+        $this->response = new Http\Response();
         $this->router = new Router();
     }
     public static function getInstance () {
