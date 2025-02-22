@@ -2,6 +2,7 @@
 namespace Minic2\Core;
 
 use Minic2\Core\Http\Request;
+
 class Router {
     public function __construct () {
         
@@ -24,7 +25,7 @@ class Router {
         
         // Convert controller name to class format
         $controllerClass = "Minic2\\App\\Controllers\\".$request->getControllerClass();
-
+        
         if (!class_exists($controllerClass)) {
             http_response_code(404);
             echo "Controller not found.";
