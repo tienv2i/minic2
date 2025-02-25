@@ -3,8 +3,7 @@ use Minic2\Core\Config;
 $cached = [];
 
 function base_url ($path = '') {
-    echo Config::get('app.base_url', '');
-    return $cached['base_url'] ?? rtrim(Config::get('app.base_url', ''),'\\/').'/'.$path;
+    return $cached['base_url'] ?? rtrim(Config::get('app.base_url', '/public/index.php'),'\\/').'/'.$path;
 }
 
 function static_url($path='') {
