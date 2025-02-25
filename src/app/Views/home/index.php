@@ -1,5 +1,4 @@
 <?php ob_start(); ?>
-    Hello world, this is Home/Index
 
 <?php
 $content = ob_get_clean();

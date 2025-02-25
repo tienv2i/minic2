@@ -19,7 +19,7 @@ class Request
     public function __construct()
     {
         $this->method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
-        $this->uri = parse_url($_SSERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH);
+        $this->uri = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH);
         $this->query = $_GET ?? [];
         $this->post = $_POST ?? [];
         $this->headers = getallheaders() ?: [];

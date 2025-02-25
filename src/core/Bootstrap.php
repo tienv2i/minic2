@@ -11,12 +11,15 @@ class Bootstrap {
     public function __construct () {
         Config::load('app');
         $this->request = new Http\Request();
+        
         $this->response = new Http\Response();
         
         $this->router = new Router();
          
         $this->view = new View();
 
+        $this->loadHelpers();
+        
         self::$instance = $this;
     }
     public static function getInstance () {
@@ -28,6 +31,16 @@ class Bootstrap {
         return self::$instance;
     }
     public function runApp () {
+
         $this->router->dispatch();
+    }
+    private function loadHelpers() {
+        $helpersPath = __DIR__ . '/../app/Helpers/';
+        
+        if (is_dir($helpersPath)) {
+            foreach (glob($helpersPath . '*.php') as $file) {
+                require_once $file;
+            }
+        }
     }
 }
