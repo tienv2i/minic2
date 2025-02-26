@@ -18,9 +18,39 @@
     }
     </style>
     <title><?=$page_title ?? Config::get('app.app_name')?></title>
+    <script>
+            $(document).ready(function () {
+                window.show_answer = false;
+                $('div.quiz_note').hide();
+                $('label.text-border-success').addClass('text-border-success-bak').removeClass('text-border-success');
+            });
+    </script>
 </head>
 <body>
+
     <?=$content ?? "Blank page"?>
+    <div class="position-fixed fixed-bottom bg-white py-2 border-top">
+        <div class="container text-center" style="max-width: 720px;">
+            <button type="button" class="btn btn-primary mx-auto" id="toggle_answer">Show answer</button>
+        </div>
+        <script>
+            $ ('#toggle_answer').click(function () {
+                if (window.show_answer === true) {
+                    $ ('#toggle_answer').text('Show answers');
+                    $ ('#toggle_answer').addClass('btn-primary').removeClass('btn-danger');
+                    $('div.quiz_note').hide();
+                    $('label.text-border-success').addClass('text-border-success-bak').removeClass('text-border-success');
+                    window.show_answer = false
+                } else {
+                    $ ('#toggle_answer').text('Hide answers');
+                    $ ('#toggle_answer').addClass('btn-danger').removeClass('btn-primary');
+                    $('div.quiz_note').show();
+                    $('label.text-border-success-bak').addClass('text-border-success').removeClass('text-border-success-bak');
+                    window.show_answer = true
+                }
+            });
+        </script>
+    </div>
     <?=$js_script ?? ""?>
 </body>
 </html>
