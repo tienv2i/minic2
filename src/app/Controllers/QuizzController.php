@@ -8,7 +8,11 @@ class QuizzController {
         $app->view->render('quizz/index');
     }
     function timmach (Core\Bootstrap $app, $params = null) {
-        $app->view->render('quizz/timmach');
+        $content = file_get_contents(Config::get("app.views_dir")."/quizz/html/timmach.html");
+        $app->view->render('layout', [
+            "content" => $content,
+            "page_title" => "Module tim mạch"
+        ]);
     }
     function chitren (Core\Bootstrap $app, $params = null) {
         $app->view->render('quizz/chitren');
