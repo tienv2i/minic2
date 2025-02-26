@@ -1,11 +1,4 @@
 <?php 
-
-$links = [
-    'quizz/daicuong' => 'Đại cương',
-    'quizz/chitren' => 'Chi trên',
-    'quizz/timmach' => 'Tim mạch',
-];
-
 ob_start(); 
 ?>
 
