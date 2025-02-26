@@ -7,7 +7,7 @@ function base_url ($path = '') {
 }
 
 function static_url($path='') {
-    return Config::get('app.static_url', base_url('public/static'));
+    return Config::get('app.static_url', base_url('public/static'))."/".$path;
 }
 
 function base_path ($path = '') {
