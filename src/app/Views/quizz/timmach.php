@@ -1,5 +1,6 @@
 <?php
-$content = file_get_contents(__DIR__.'../html/timmach.html');
+
+$content = file_get_contents(__DIR__.'/../html/timmach.html');
 
 $page_title = "Trắc nghiệm Module tim mạch";
 

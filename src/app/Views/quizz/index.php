@@ -1,18 +1,25 @@
 <?php 
 
 $links = [
+    'quizz/daicuong' => 'Đại cương',
     'quizz/chitren' => 'Chi trên',
-    'quizz/timmach' => 'Tim mạch'
+    'quizz/timmach' => 'Tim mạch',
 ];
 
 ob_start(); 
 ?>
 
-<div class="container mb-4">
-    <?php foreach ($links as $link => $title) {
-        echo '<a href="'.base_url($link).'">'.$title.'</a>';
-    }
-    ?>
+<div class="container my-4">
+    <h3 class="mb-4 text-center">Trắc nghiệm ôn thi giải phẫu YDS</h3>
+    <ul class="list-group">
+        <?php foreach ($links as $link => $title): ?>
+            <li class="list-group-item">
+                <a href="<?=base_url($link)?>"><?=$title?></a>
+            </li>
+        <?php
+        endforeach;
+        ?>
+    </div>
 </div>
 
 
