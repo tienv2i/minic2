@@ -5,7 +5,10 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Minic2\\": "src/"
+            "Minic2\\": "src/",
+            "Minic2\\Core\\": "src/core/",
+            "Minic2\\App\\": "src/app/"
+
         }
     },
     "authors": [
