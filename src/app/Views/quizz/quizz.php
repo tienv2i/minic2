@@ -8,6 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="<?=static_url("css/fontawesome.min.css")?>" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="<?=static_url("js/jquery-ui.min.js")?>"></script>
     <script src="<?=static_url("js/popper.min.js")?>"></script>
@@ -31,7 +32,11 @@
     <?=$content ?? "Blank page"?>
     <div class="position-fixed fixed-bottom bg-white py-2 border-top">
         <div class="container text-center" style="max-width: 720px;">
-            <button type="button" class="btn btn-primary mx-auto" id="toggle_answer">Show answer</button>
+            <a href="<?=base_url("quizz")?>" class="btn btn-primary text-white" alt="Quizz home"><i class="fa fa-home"> </i></a>
+            <button type="button" class="btn btn-primary" id="toggle_answer" alt="Toggle answer">Show answer</button>
+            <buttton class="btn btn-success" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });" alt="Scroll to top"><i class="fa fa-arrow-up"> </i></buttton>
+            <buttton class="btn btn-success" onclick="window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });" alt="Scroll to top"><i class="fa fa-arrow-down"> </i></buttton>
+
         </div>
         <script>
             $ ('#toggle_answer').click(function () {
