@@ -23,6 +23,13 @@
         .hidden {
             display: none !important;
         }
+        @media print
+        {    
+            .no-print, .no-print *
+            {
+                display: none !important;
+            }
+        }
     </style>
     <title><?=$page_title ?? Config::get('app.app_name')?></title>
     <script>
@@ -50,13 +57,12 @@
 <body>
 
     <?=$content ?? "Blank page"?>
-    <div class="position-fixed fixed-bottom bg-white py-2 border-top">
+    <div class="position-fixed fixed-bottom bg-white py-2 border-top no-print">
         <div class="container text-center" style="max-width: 720px;">
             <a href="<?=base_url("quizz")?>" class="btn btn-primary text-white" alt="Quizz home"><i class="fa fa-home"> </i></a>
             <button type="button" class="btn btn-primary" id="toggle_answer" alt="Toggle answer">Show answer</button>
             <buttton class="btn btn-success" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });" alt="Scroll to top"><i class="fa fa-arrow-up"> </i></buttton>
             <buttton class="btn btn-success" onclick="window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });" alt="Scroll to top"><i class="fa fa-arrow-down"> </i></buttton>
-
         </div>
         <script>
 
