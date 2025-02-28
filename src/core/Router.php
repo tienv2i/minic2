@@ -8,10 +8,8 @@ class Router {
         
     }
 
-    public function dispatch (Request $request = null) {
-        if ($request === null) {
-            $request = new Request();
-        }
+    public function dispatch () {
+        $request = new Request();
         
         $controllerName = $request->getController();
         $actionName = $request->getAction();

@@ -16,5 +16,8 @@
             "name": "tienv2i",
             "email": "tienv2i@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "twig/twig": "^3.20"
+    }
 }

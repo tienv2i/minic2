@@ -9,17 +9,19 @@ class Bootstrap {
     public Http\Response $response;
     public View $view;
     public function __construct () {
+
         Config::load('app');
+        
+        $this->loadHelpers();
+
         $this->request = new Http\Request();
         
         $this->response = new Http\Response();
-        
-        $this->router = new Router();
-         
-        $this->view = new View();
 
-        $this->loadHelpers();
-        
+        $this->view = new View();  
+
+        $this->router = new Router();
+
         self::$instance = $this;
     }
     public static function getInstance () {
