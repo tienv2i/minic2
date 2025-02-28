@@ -116,9 +116,9 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
 
     ";
         // line 59
-        yield ($context["quizz_content"] ?? null);
+        yield from $this->loadTemplate((("quizz/contents/" . ($context["content_file"] ?? null)) . ".html"), "quizz/quizz.html", 59)->unwrap()->yield($context);
+        // line 60
         yield "
-
     <div class=\"position-fixed fixed-bottom bg-white py-2 border-top no-print\">
         <div class=\"container text-center\" style=\"max-width: 720px;\">
             <a href=\"";
@@ -180,7 +180,7 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  153 => 69,  143 => 34,  137 => 70,  135 => 69,  126 => 63,  119 => 59,  93 => 35,  91 => 34,  87 => 33,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
+        return array (  153 => 69,  143 => 34,  137 => 70,  135 => 69,  126 => 63,  121 => 60,  119 => 59,  93 => 35,  91 => 34,  87 => 33,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
     }
 
     public function getSourceContext(): Source

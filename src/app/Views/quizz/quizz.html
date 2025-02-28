@@ -56,7 +56,7 @@
 </head>
 <body>
 
-    {{ quizz_content | raw }}
+    {% include "quizz/contents/" ~content_file~ ".html" %}
 
     <div class="position-fixed fixed-bottom bg-white py-2 border-top no-print">
         <div class="container text-center" style="max-width: 720px;">

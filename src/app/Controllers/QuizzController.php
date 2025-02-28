@@ -22,79 +22,68 @@ class QuizzController {
         ]);
     }
     function hohap (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/hohap.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'hohap',
             "page_title" => "Giải phẫu tim mạch"
         ]);
     }
     function timmach (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/timmach.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'timmach',
             "page_title" => "Giải phẫu tim mạch"
         ]);
     }
     function chitren (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/chitren.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'chitren',
             "page_title" => "Giải phẫu chi trên"
         ]);
     }
     function daicuong (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/daicuong.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'daicuong',
             "page_title" => "Giải phẫu đại cương"
         ]);
     }
     function thacsi_2024 (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/thacsi_2024.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'thacsi_2024',
             "page_title" => "Đề thi thạc sĩ 2024 (chép lại)"
         ]);
     }
     function bung (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/bung.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'bung',
             "page_title" => "Giải phẫu Bụng"
         ]);
     }
     function coxuongkhop (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/coxuongkhop.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'coxuongkhop',
             "page_title" => "Giải phẫu Cơ xương khớp"
         ]);
     }
     function sinhsan (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/sinhsan.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'sinhsan',
             "page_title" => "Giải phẫu Sinh sản"
         ]);
     }
     function thankinh_noitiet_giacquan (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/thankinh_noitiet_giacquan.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'thankinh_noitiet_giacquan',
             "page_title" => "Giải phẫu Thần kinh - Nội tiết - Giác quan"
         ]);
     }
     function tietnieu (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/tietnieu.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'tietnieu',
             "page_title" => "Giải phẫu Tiết niệu"
         ]);
     }
     function tieuhoa (Bootstrap $app, $params = null) {
-        $quizz_content = file_get_contents(Config::get("app.views_dir")."/quizz/contents/tieuhoa.html");
         $app->view->render('quizz/quizz.html', [
-            "quizz_content" => $quizz_content,
+            "content_file" => 'tieuhoa',
             "page_title" => "Giải phẫu Tiêu hoá"
         ]);
     }
