@@ -33,8 +33,10 @@ class Request
 
     private function parseUri(): void
     {
-        $scriptName = $_SERVER['SCRIPT_NAME'];
-        $path = trim(str_replace($scriptName, '', $this->uri), '/');
+        $scriptPath = $_SERVER['SCRIPT_NAME'];
+        $scriptDir = dirname($scriptPath);
+        $path = trim(str_replace([$scriptPath, $scriptDir], '', $this->uri), '/');
+
         $segments = explode('/', $path);
         
         if (!empty($segments[0])) {

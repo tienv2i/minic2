@@ -30,6 +30,9 @@
                 display: none !important;
             }
         }
+        div.quiz-note img{
+            width: 100%;
+        }
     </style>
     <title><?=$page_title ?? Config::get('app.app_name')?></title>
     <script>
