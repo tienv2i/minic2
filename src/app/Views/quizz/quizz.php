@@ -14,16 +14,36 @@
     <script src="<?=static_url("js/popper.min.js")?>"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <style>
-    .block-quiz-test label.text-border-success {
-        border-color: green !important;
-    }
+        body {
+            padding-bottom: 50px;
+        }
+        .block-quiz-test label.text-border-success {
+            border-color: green !important;
+        }
+        .hidden {
+            display: none !important;
+        }
     </style>
     <title><?=$page_title ?? Config::get('app.app_name')?></title>
     <script>
             $(document).ready(function () {
                 window.show_answer = false;
-                $('div.quiz_note').hide();
-                $('label.text-border-success').addClass('text-border-success-bak').removeClass('text-border-success');
+                
+                $ ('#toggle_answer').click(function () {
+                    if (window.show_answer === true) {
+                        $ ('#toggle_answer').text('Show answers').removeClass('btn-danger').addClass('btn-primary');
+                        $ ('i.text-success').addClass('hidden');
+                        $ ('div.quiz_note').addClass('hidden');
+                        $ ('label.right-answer').removeClass('text-border-success');
+                        window.show_answer = false
+                    } else {
+                        $ ('#toggle_answer').text('Hide answers').removeClass('btn-primary').addClass('btn-danger');
+                        $ ('i.text-success').removeClass('hidden');
+                        $ ('div.quiz_note').removeClass('hidden');
+                        $ ('label.right-answer').addClass('text-border-success');
+                        window.show_answer = true
+                    }
+                });
             });
     </script>
 </head>
@@ -39,21 +59,7 @@
 
         </div>
         <script>
-            $ ('#toggle_answer').click(function () {
-                if (window.show_answer === true) {
-                    $ ('#toggle_answer').text('Show answers');
-                    $ ('#toggle_answer').addClass('btn-primary').removeClass('btn-danger');
-                    $('div.quiz_note').hide();
-                    $('label.text-border-success').addClass('text-border-success-bak').removeClass('text-border-success');
-                    window.show_answer = false
-                } else {
-                    $ ('#toggle_answer').text('Hide answers');
-                    $ ('#toggle_answer').addClass('btn-danger').removeClass('btn-primary');
-                    $('div.quiz_note').show();
-                    $('label.text-border-success-bak').addClass('text-border-success').removeClass('text-border-success-bak');
-                    window.show_answer = true
-                }
-            });
+
         </script>
     </div>
     <?=$js_script ?? ""?>

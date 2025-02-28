@@ -15,7 +15,7 @@ class QuizzController {
                 'quizz/coxuongkhop' => 'Cơ xương khớp',
                 'quizz/sinhsan' => 'Sinh sản',
                 'quizz/tietnieu' => 'Tiết niệu',
-                'quizz/tieuhoa' => 'Tiêu hoá',
+                'tquizz/ieuhoa' => 'Tiêu hoá',
                 'quizz/thankinh_noitiet_giacquan' => 'Thần kinh - Nội tiết - Giác quan',
                 'quizz/thacsi_2024' => 'Thạc sĩ 2024 (chép lại)',
             ]
