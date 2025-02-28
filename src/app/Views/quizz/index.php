@@ -2,7 +2,7 @@
 ob_start(); 
 ?>
 
-<div class="container my-4">
+<div class="container my-4" style="max-width:720px;">
     <h3 class="mb-4 text-center">Trắc nghiệm ôn thi giải phẫu YDS</h3>
     <ul class="list-group">
         <?php foreach ($links as $link => $title): ?>
