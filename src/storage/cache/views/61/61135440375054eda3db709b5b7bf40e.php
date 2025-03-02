@@ -109,31 +109,52 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
                         window.show_answer = true
                     }
                 });
+
+                // Kiểm tra phần tử có nằm trong viewport không
+                function isElementInViewport(el) {
+                    var rect = el.getBoundingClientRect();
+                    return rect.top < window.innerHeight && rect.bottom > 0;
+                }
+                window.isElInVp = isElementInViewport;
+                
+                // Xử lý sự kiện khi nhấn nút \"Show Current Answer\"
+                \$('#showCurrentAnswer').click(function () {
+                    \$('.quiz-item').each(function () {
+                        if (isElementInViewport(this)) {
+                            \$(this).find('i.text-success').removeClass('hidden');
+                            \$(this).find('div.quiz_note').removeClass('hidden');
+                            \$(this).find('label.right-answer').addClass('text-border-success');
+                        }
+                    });
+                });
             });
+
+            
     </script>
 </head>
 <body>
 
     ";
-        // line 59
-        yield from $this->loadTemplate((("quizz/contents/" . ($context["content_file"] ?? null)) . ".html"), "quizz/quizz.html", 59)->unwrap()->yield($context);
-        // line 60
+        // line 79
+        yield from $this->loadTemplate((("quizz/contents/" . ($context["content_file"] ?? null)) . ".html"), "quizz/quizz.html", 79)->unwrap()->yield($context);
+        // line 80
         yield "
     <div class=\"position-fixed fixed-bottom bg-white py-2 border-top no-print\">
         <div class=\"container text-center\" style=\"max-width: 720px;\">
             <a href=\"";
-        // line 63
+        // line 83
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(base_url("quizz"), "html", null, true);
-        yield "\" class=\"btn btn-primary text-white\" alt=\"Quizz home\"><i class=\"fa fa-home\"> </i></a>
-            <button type=\"button\" class=\"btn btn-primary\" id=\"toggle_answer\" alt=\"Toggle answer\">Show answer</button>
+        yield "\" class=\"btn btn-primary text-white\"><i class=\"fa fa-home\"> </i></a>
+            <button type=\"button\" class=\"btn btn-primary\" id=\"showCurrentAnswer\">Show Current answer</button>
+            <button type=\"button\" class=\"btn btn-primary\" id=\"toggle_answer\">Show answer</button>
             <buttton class=\"btn btn-success\" onclick=\"window.scrollTo({ top: 0, behavior: 'smooth' });\" alt=\"Scroll to top\"><i class=\"fa fa-arrow-up\"> </i></buttton>
             <buttton class=\"btn btn-success\" onclick=\"window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });\" alt=\"Scroll to top\"><i class=\"fa fa-arrow-down\"> </i></buttton>
         </div>
     </div>
     ";
-        // line 69
+        // line 90
         yield from $this->unwrap()->yieldBlock('script_tags', $context, $blocks);
-        // line 70
+        // line 91
         yield "</body>
 </html>";
         yield from [];
@@ -149,7 +170,7 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
         yield from [];
     }
 
-    // line 69
+    // line 90
     /**
      * @return iterable<null|scalar|\Stringable>
      */
@@ -180,7 +201,7 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  153 => 69,  143 => 34,  137 => 70,  135 => 69,  126 => 63,  121 => 60,  119 => 59,  93 => 35,  91 => 34,  87 => 33,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
+        return array (  174 => 90,  164 => 34,  158 => 91,  156 => 90,  146 => 83,  141 => 80,  139 => 79,  93 => 35,  91 => 34,  87 => 33,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
     }
 
     public function getSourceContext(): Source
