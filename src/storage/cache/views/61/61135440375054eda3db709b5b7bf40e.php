@@ -89,17 +89,24 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
             margin-bottom: 10px;
         }
         button.quiz-button {
-            margin-right: 10px;
+            margin-left: 10px;
+        }
+        div.x-wrapper {
+            display: flex;
+            flex-direction: row-reverse;
+        }
+        div.quiz-tittle-wrapper {
+            flex-grow: 1;
         }
     </style>
     <title>";
-        // line 43
+        // line 50
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(((array_key_exists("page_title", $context)) ? (Twig\Extension\CoreExtension::default(($context["page_title"] ?? null), "Minic 2")) : ("Minic 2")), "html", null, true);
         yield "</title>
     ";
-        // line 44
+        // line 51
         yield from $this->unwrap()->yieldBlock('link_tags', $context, $blocks);
-        // line 45
+        // line 52
         yield "    <script>
         function toggle_all_answer () {
             window.show_answer = !window.show_answer;
@@ -169,14 +176,14 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
 <body>
 
     ";
-        // line 113
-        yield from $this->loadTemplate((("quizz/contents/" . ($context["content_file"] ?? null)) . ".html"), "quizz/quizz.html", 113)->unwrap()->yield($context);
-        // line 114
+        // line 120
+        yield from $this->loadTemplate((("quizz/contents/" . ($context["content_file"] ?? null)) . ".html"), "quizz/quizz.html", 120)->unwrap()->yield($context);
+        // line 121
         yield "
     <div class=\"position-fixed fixed-bottom bg-white py-2 border-top no-print\">
         <div class=\"container text-center\" style=\"max-width: 720px;\">
             <a href=\"";
-        // line 117
+        // line 124
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(base_url("quizz"), "html", null, true);
         yield "\" class=\"btn btn-primary text-white\"><i class=\"fa fa-home\"> </i></a>
             <button type=\"button\" class=\"btn btn-primary\" id=\"toggle_answer\">Show all answer</button>
@@ -185,15 +192,15 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
         </div>
     </div>
     ";
-        // line 123
+        // line 130
         yield from $this->unwrap()->yieldBlock('script_tags', $context, $blocks);
-        // line 124
+        // line 131
         yield "</body>
 </html>";
         yield from [];
     }
 
-    // line 44
+    // line 51
     /**
      * @return iterable<null|scalar|\Stringable>
      */
@@ -203,7 +210,7 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
         yield from [];
     }
 
-    // line 123
+    // line 130
     /**
      * @return iterable<null|scalar|\Stringable>
      */
@@ -234,7 +241,7 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  207 => 123,  197 => 44,  191 => 124,  189 => 123,  180 => 117,  175 => 114,  173 => 113,  103 => 45,  101 => 44,  97 => 43,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
+        return array (  214 => 130,  204 => 51,  198 => 131,  196 => 130,  187 => 124,  182 => 121,  180 => 120,  110 => 52,  108 => 51,  104 => 50,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
     }
 
     public function getSourceContext(): Source
