@@ -33,26 +33,36 @@
     <title>{{ page_title | default('Minic 2') }}</title>
     {% block link_tags %}{% endblock %}
     <script>
-            $(document).ready(function () {
-                window.show_answer = false;
-                
-                $ ('#toggle_answer').click(function () {
-                    if (window.show_answer === true) {
-                        $ ('#toggle_answer').text('Show answers').removeClass('btn-danger').addClass('btn-primary');
-                        $ ('i.text-success').addClass('hidden');
-                        $ ('div.quiz_note').addClass('hidden');
-                        $ ('label.right-answer').removeClass('text-border-success');
-                        window.show_answer = false
-                    } else {
-                        $ ('#toggle_answer').text('Hide answers').removeClass('btn-primary').addClass('btn-danger');
-                        $ ('i.text-success').removeClass('hidden');
-                        $ ('div.quiz_note').removeClass('hidden');
-                        $ ('label.right-answer').addClass('text-border-success');
-                        window.show_answer = true
-                    }
-                });
+        var toggle_answer = function () {
+            if (window.show_answer === true) {
+                $ ('#toggle_answer').text('Show answers').removeClass('btn-danger').addClass('btn-primary');
+                $ ('i.text-success').addClass('hidden');
+                $ ('div.quiz_note').addClass('hidden');
+                $ ('label.right-answer').removeClass('text-border-success');
+                window.show_answer = false
+            } else {
+                $ ('#toggle_answer').text('Hide answers').removeClass('btn-primary').addClass('btn-danger');
+                $ ('i.text-success').removeClass('hidden');
+                $ ('div.quiz_note').removeClass('hidden');
+                $ ('label.right-answer').addClass('text-border-success');
+                window.show_answer = true
+            }
+        }
 
+        $(document).keydown(function(event) {
+            if (event.which === 32) { 
+                event.preventDefault();
+                toggle_answer();
+            }
+        });
+
+        $(document).ready(function () {
+            window.show_answer = false;
+            $ ('#toggle_answer').click(function () {
+                toggle_answer();
             });
+
+        });
 
             
     </script>
