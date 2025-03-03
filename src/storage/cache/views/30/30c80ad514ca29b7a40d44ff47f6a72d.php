@@ -48,9 +48,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"0\" data-question-number=\"1\" id=\"div_block_quiz_test_0\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"0\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"1\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 1: Nói về các dây chằng của tử cung, câu nào sau
-                                đây SAI?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 1: Nói về các dây chằng của tử cung, câu nào sau
+                                đây SAI?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -108,9 +108,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"1\" data-question-number=\"2\" id=\"div_block_quiz_test_1\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"1\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"2\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 2: Nói về giới hạn hố buồng trứng, điều nào sau
-                                đây SAI?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"2\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 2: Nói về giới hạn hố buồng trứng, điều nào sau
+                                đây SAI?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -175,9 +175,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"2\" data-question-number=\"3\" id=\"div_block_quiz_test_2\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"2\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"3\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 3: Đầu vòi của buồng trứng là nơi bám
-                                của?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"3\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 3: Đầu vòi của buồng trứng là nơi bám
+                                của?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -244,9 +244,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"3\" data-question-number=\"4\" id=\"div_block_quiz_test_3\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"3\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"4\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 4: Đầu tử cung của buồng trứng là nơi bám
-                                của?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"4\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 4: Đầu tử cung của buồng trứng là nơi bám
+                                của?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -313,9 +313,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"4\" data-question-number=\"5\" id=\"div_block_quiz_test_4\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"4\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"5\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 5: Mạc treo buồng trứng treo buồng trứng
-                                vào?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"5\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 5: Mạc treo buồng trứng treo buồng trứng
+                                vào?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -382,9 +382,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"5\" data-question-number=\"6\" id=\"div_block_quiz_test_5\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"5\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"6\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 6: Trong các dây chằng tử cung, dây chằng nào đi
-                                vào ống bẹn?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"6\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 6: Trong các dây chằng tử cung, dây chằng nào đi
+                                vào ống bẹn?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -442,8 +442,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"6\" data-question-number=\"7\" id=\"div_block_quiz_test_6\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"6\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"7\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 7: Rốn buồng trứng nằm ở?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"7\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 7: Rốn buồng trứng nằm ở?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -495,8 +495,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"7\" data-question-number=\"8\" id=\"div_block_quiz_test_7\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"7\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"8\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 8: Động mạch buồng trứng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"8\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 8: Động mạch buồng trứng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -552,8 +552,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"8\" data-question-number=\"9\" id=\"div_block_quiz_test_8\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"8\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"9\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 9: Vòi tử cung?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"9\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 9: Vòi tử cung?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -609,9 +609,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"9\" data-question-number=\"10\" id=\"div_block_quiz_test_9\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"9\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"10\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 10: Vòi tử cung được cấp máu
-                                bởi?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"10\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 10: Vòi tử cung được cấp máu
+                                bởi?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -669,8 +669,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"10\" data-question-number=\"11\" id=\"div_block_quiz_test_10\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"10\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"11\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 11: Tử cung?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"11\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 11: Tử cung?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -728,9 +728,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"11\" data-question-number=\"12\" id=\"div_block_quiz_test_11\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"11\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"12\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 12: Dây chằng nào sau đây bám vào mặt sau cổ tử
-                                cung?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"12\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 12: Dây chằng nào sau đây bám vào mặt sau cổ tử
+                                cung?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -788,9 +788,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"12\" data-question-number=\"13\" id=\"div_block_quiz_test_12\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"12\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"13\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 13: Tầng cơ rối tử cung có các đặc điểm sau, ngoại
-                                trừ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"13\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 13: Tầng cơ rối tử cung có các đặc điểm sau, ngoại
+                                trừ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -842,9 +842,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"13\" data-question-number=\"14\" id=\"div_block_quiz_test_13\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"13\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"14\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 14: Động mạch tử cung là nhánh
-                                của?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"14\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 14: Động mạch tử cung là nhánh
+                                của?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -896,9 +896,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"14\" data-question-number=\"15\" id=\"div_block_quiz_test_14\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"14\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"15\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 15: Khi cần chọc dò túi cùng trực tràng-tử cung
-                                qua ngã âm đạo, người ta thường dò qua?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"15\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 15: Khi cần chọc dò túi cùng trực tràng-tử cung
+                                qua ngã âm đạo, người ta thường dò qua?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -950,9 +950,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"15\" data-question-number=\"16\" id=\"div_block_quiz_test_15\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"15\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"16\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 16: Tiền đình âm đạo được giới hạn phía trước
-                                bởi?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"16\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 16: Tiền đình âm đạo được giới hạn phía trước
+                                bởi?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1010,9 +1010,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"16\" data-question-number=\"17\" id=\"div_block_quiz_test_16\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"16\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"17\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 17: Tiền đình âm đạo được giới hạn phía sau
-                                bởi?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"17\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 17: Tiền đình âm đạo được giới hạn phía sau
+                                bởi?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1070,9 +1070,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"17\" data-question-number=\"18\" id=\"div_block_quiz_test_17\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"17\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"18\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 18: Nói về tuyến vú ở nữ, câu nào sau đây
-                                SAI?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"18\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 18: Nói về tuyến vú ở nữ, câu nào sau đây
+                                SAI?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1124,9 +1124,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"18\" data-question-number=\"19\" id=\"div_block_quiz_test_18\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"18\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"19\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 19: Thành phần nào sau đây có vai trò cầm máu và
-                                co hồi tử cung?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"19\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 19: Thành phần nào sau đây có vai trò cầm máu và
+                                co hồi tử cung?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1178,9 +1178,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"19\" data-question-number=\"20\" id=\"div_block_quiz_test_19\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"19\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"20\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 20: Nói về động mạch tử cung, điều nào sau đây
-                                đúng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"20\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 20: Nói về động mạch tử cung, điều nào sau đây
+                                đúng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1237,9 +1237,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"20\" data-question-number=\"21\" id=\"div_block_quiz_test_20\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"20\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"21\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 21: Phần nào sau đây của tử cung giãn ra nhiều
-                                nhất khi mang thai?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"21\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 21: Phần nào sau đây của tử cung giãn ra nhiều
+                                nhất khi mang thai?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1287,9 +1287,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"21\" data-question-number=\"22\" id=\"div_block_quiz_test_21\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"21\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"22\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 22: Thành phần nào sau đây không nằm trong tinh
-                                hoàn hoặc mào tinh hoàn?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"22\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 22: Thành phần nào sau đây không nằm trong tinh
+                                hoàn hoặc mào tinh hoàn?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1347,9 +1347,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"22\" data-question-number=\"23\" id=\"div_block_quiz_test_22\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"22\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"23\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 23: Động mạch tinh hoàn có đặc điểm, ngoại
-                                trừ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"23\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 23: Động mạch tinh hoàn có đặc điểm, ngoại
+                                trừ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1408,9 +1408,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"23\" data-question-number=\"24\" id=\"div_block_quiz_test_23\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"23\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"24\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 24: Tinh dịch được sản xuất từ các cơ quan sau
-                                đây, ngoại trừ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"24\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 24: Tinh dịch được sản xuất từ các cơ quan sau
+                                đây, ngoại trừ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1462,9 +1462,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"24\" data-question-number=\"25\" id=\"div_block_quiz_test_24\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"24\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"25\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 25: Thành phần nào sau đây không có trong thừng
-                                tinh?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"25\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 25: Thành phần nào sau đây không có trong thừng
+                                tinh?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1522,9 +1522,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"25\" data-question-number=\"26\" id=\"div_block_quiz_test_25\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"25\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"26\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 26: Tuyến tiền liệt được cấp máu
-                                bởi?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"26\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 26: Tuyến tiền liệt được cấp máu
+                                bởi?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1576,9 +1576,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"26\" data-question-number=\"27\" id=\"div_block_quiz_test_26\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"26\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"27\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 27: Thành phần nào sau đây có chức năng sản xuất
-                                tinh trùng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"27\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 27: Thành phần nào sau đây có chức năng sản xuất
+                                tinh trùng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1636,9 +1636,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"27\" data-question-number=\"28\" id=\"div_block_quiz_test_27\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"27\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"28\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 28: Thành phần nào sau đây không đi trong thừng
-                                tinh?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"28\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 28: Thành phần nào sau đây không đi trong thừng
+                                tinh?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1690,9 +1690,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"28\" data-question-number=\"29\" id=\"div_block_quiz_test_28\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"28\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"29\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 29: Hiện tượng cương dương vật là
-                                do?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"29\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 29: Hiện tượng cương dương vật là
+                                do?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1744,9 +1744,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"29\" data-question-number=\"30\" id=\"div_block_quiz_test_29\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"29\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"30\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 30: Cơ nào sau đây không thuộc hoành chậu
-                                hông?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"30\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 30: Cơ nào sau đây không thuộc hoành chậu
+                                hông?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1820,9 +1820,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"30\" data-question-number=\"31\" id=\"div_block_quiz_test_30\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"30\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"31\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 31: Thành phần nào sau đây không có trong khoang
-                                đáy chậu nông ở nam?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"31\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 31: Thành phần nào sau đây không có trong khoang
+                                đáy chậu nông ở nam?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1880,9 +1880,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"31\" data-question-number=\"32\" id=\"div_block_quiz_test_31\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"31\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"32\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 32: Khoang đáy chậu sâu là phần giới hạn
-                                giữa?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"32\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 32: Khoang đáy chậu sâu là phần giới hạn
+                                giữa?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1940,9 +1940,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"32\" data-question-number=\"33\" id=\"div_block_quiz_test_32\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"32\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"33\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 33: Ranh giới giữa khoang đáy chậu nông và khoang
-                                đáy chậu sâu là?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"33\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 33: Ranh giới giữa khoang đáy chậu nông và khoang
+                                đáy chậu sâu là?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2000,9 +2000,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"33\" data-question-number=\"34\" id=\"div_block_quiz_test_33\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"33\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"34\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 34: Trên thiết đồ đứng ngang, hố ngồi trực tràng
-                                được giới hạn?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"34\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 34: Trên thiết đồ đứng ngang, hố ngồi trực tràng
+                                được giới hạn?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2060,9 +2060,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"34\" data-question-number=\"35\" id=\"div_block_quiz_test_34\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"34\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"35\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 35: Hoành chậu hông có các cơ
-                                sau?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"35\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 35: Hoành chậu hông có các cơ
+                                sau?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2114,9 +2114,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"35\" data-question-number=\"36\" id=\"div_block_quiz_test_35\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"35\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"36\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 36: Cơ nào sau đây không bám vào trung tâm gân đáy
-                                chậu?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"36\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 36: Cơ nào sau đây không bám vào trung tâm gân đáy
+                                chậu?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2174,9 +2174,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"36\" data-question-number=\"37\" id=\"div_block_quiz_test_36\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"36\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"37\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 37: Ở vùng niệu - dục, các cơ trong khoang đáy
-                                chậu nông được vận động bởi?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"37\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 37: Ở vùng niệu - dục, các cơ trong khoang đáy
+                                chậu nông được vận động bởi?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2228,9 +2228,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"37\" data-question-number=\"38\" id=\"div_block_quiz_test_37\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"37\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"38\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 38: Về đáy chậu, câu nào sau đây
-                                SAI?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"38\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 38: Về đáy chậu, câu nào sau đây
+                                SAI?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2289,9 +2289,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"38\" data-question-number=\"39\" id=\"div_block_quiz_test_38\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"38\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"39\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 39: Ở những người đẻ con so, để cho thai dễ sổ ra,
-                                người ta chủ động cắt âm hộ ở các điểm 4 giờ hoặc 8 giờ, để?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"39\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 39: Ở những người đẻ con so, để cho thai dễ sổ ra,
+                                người ta chủ động cắt âm hộ ở các điểm 4 giờ hoặc 8 giờ, để?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2343,9 +2343,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"39\" data-question-number=\"40\" id=\"div_block_quiz_test_39\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"39\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"40\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 40: Cơ nào sau đây không thuộc đáy chậu
-                                trước?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"40\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 40: Cơ nào sau đây không thuộc đáy chậu
+                                trước?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2397,9 +2397,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"40\" data-question-number=\"41\" id=\"div_block_quiz_test_40\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"40\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"41\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 41: Cơ nào sau đây thuộc khoang đáy chậu
-                                sâu?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"41\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 41: Cơ nào sau đây thuộc khoang đáy chậu
+                                sâu?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2457,9 +2457,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"41\" data-question-number=\"42\" id=\"div_block_quiz_test_41\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"41\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"42\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 42: Động mạch mạc treo tràng
-                                trên?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"42\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 42: Động mạch mạc treo tràng
+                                trên?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2517,8 +2517,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"42\" data-question-number=\"43\" id=\"div_block_quiz_test_42\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"42\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"43\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 43: Động mạch vị trái?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"43\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 43: Động mạch vị trái?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2576,8 +2576,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"43\" data-question-number=\"44\" id=\"div_block_quiz_test_43\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"43\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"44\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 44: Động mạch gan riêng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"44\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 44: Động mạch gan riêng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2635,9 +2635,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"44\" data-question-number=\"45\" id=\"div_block_quiz_test_44\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"44\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"45\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 45: Động mạch mạc treo tràng
-                                dưới?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"45\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 45: Động mạch mạc treo tràng
+                                dưới?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2695,8 +2695,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"45\" data-question-number=\"46\" id=\"div_block_quiz_test_45\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"45\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"46\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 46: Động mạch cơ hoành?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"46\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 46: Động mạch cơ hoành?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2748,8 +2748,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"46\" data-question-number=\"47\" id=\"div_block_quiz_test_46\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"46\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"47\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 47: Động mạch hoành dưới?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"47\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 47: Động mạch hoành dưới?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2801,8 +2801,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"47\" data-question-number=\"48\" id=\"div_block_quiz_test_47\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"47\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"48\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 48: Động mạch vị trái?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"48\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 48: Động mạch vị trái?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2860,8 +2860,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"48\" data-question-number=\"49\" id=\"div_block_quiz_test_48\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"48\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"49\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 49: Động mạch vị mạc nối trái?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"49\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 49: Động mạch vị mạc nối trái?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2913,8 +2913,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"49\" data-question-number=\"50\" id=\"div_block_quiz_test_49\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"49\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"50\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 50: Đại tràng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"50\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 50: Đại tràng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2968,8 +2968,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"50\" data-question-number=\"51\" id=\"div_block_quiz_test_50\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"50\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"51\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 51: Ruột thừa?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"51\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 51: Ruột thừa?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3021,9 +3021,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"51\" data-question-number=\"52\" id=\"div_block_quiz_test_51\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"51\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"52\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 52: (I): Lách rất khó vỡ khi chấn thương, vì:
-                                (II): Lách nằm sâu dưới vòm hoành trái.</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"52\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 52: (I): Lách rất khó vỡ khi chấn thương, vì:
+                                (II): Lách nằm sâu dưới vòm hoành trái.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3075,10 +3075,10 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"52\" data-question-number=\"53\" id=\"div_block_quiz_test_52\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"52\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"53\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 53: (I): Trong chấn thương bụng, nếu có tổn thương
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"53\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 53: (I): Trong chấn thương bụng, nếu có tổn thương
                                 tá tràng thì đoạn dễ bị tổn thương nhất là đoạn ngang (D3), vì: (II): D3 nằm ngay phía
-                                sau bó mạch mạc treo tràng trên.</strong></span><br/>
+                                sau bó mạch mạc treo tràng trên.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3130,9 +3130,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"53\" data-question-number=\"54\" id=\"div_block_quiz_test_53\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"53\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"54\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 54: động mạch nào sau đây không xuất phát từ động
-                                mạch chủ bụng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"54\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 54: động mạch nào sau đây không xuất phát từ động
+                                mạch chủ bụng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3184,9 +3184,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"54\" data-question-number=\"55\" id=\"div_block_quiz_test_54\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"54\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"55\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 55: Trong tư thế đứng, phần nào của dạ dày ở vị
-                                trí cao nhất?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"55\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 55: Trong tư thế đứng, phần nào của dạ dày ở vị
+                                trí cao nhất?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3244,9 +3244,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"55\" data-question-number=\"56\" id=\"div_block_quiz_test_55\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"55\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"56\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 56: Mặt sau dạ dày không liên quan
-                                với?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"56\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 56: Mặt sau dạ dày không liên quan
+                                với?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3304,9 +3304,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"56\" data-question-number=\"57\" id=\"div_block_quiz_test_56\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"56\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"57\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 57: Động mạch vị phải tách ra
-                                từ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"57\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 57: Động mạch vị phải tách ra
+                                từ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3358,8 +3358,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"57\" data-question-number=\"58\" id=\"div_block_quiz_test_57\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"57\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"58\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 58: Chọn câu đúng về dạ dày.</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"58\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 58: Chọn câu đúng về dạ dày.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3411,9 +3411,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"58\" data-question-number=\"59\" id=\"div_block_quiz_test_58\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"58\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"59\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 59: Mô tả mạch máu cung cấp cho dạ dày, câu nào
-                                sau đây sai?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"59\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 59: Mô tả mạch máu cung cấp cho dạ dày, câu nào
+                                sau đây sai?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3471,8 +3471,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"59\" data-question-number=\"60\" id=\"div_block_quiz_test_59\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"59\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"60\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 60: Đáy vị của dạ dày là?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"60\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 60: Đáy vị của dạ dày là?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3530,9 +3530,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"60\" data-question-number=\"61\" id=\"div_block_quiz_test_60\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"60\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"61\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 61: Câu nào sau đây đúng khi mô tả về dạ
-                                dày?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"61\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 61: Câu nào sau đây đúng khi mô tả về dạ
+                                dày?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3590,9 +3590,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"61\" data-question-number=\"62\" id=\"div_block_quiz_test_61\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"61\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"62\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 62: Đối chiếu lên cột sống, tâm vị và môn vị lần
-                                lượt tương ứng với mức của đốt sống nào?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"62\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 62: Đối chiếu lên cột sống, tâm vị và môn vị lần
+                                lượt tương ứng với mức của đốt sống nào?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3659,9 +3659,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"62\" data-question-number=\"63\" id=\"div_block_quiz_test_62\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"62\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"63\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 63: Tĩnh mạch vị phải và tĩnh mạch vị trái đổ
-                                về?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"63\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 63: Tĩnh mạch vị phải và tĩnh mạch vị trái đổ
+                                về?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3719,9 +3719,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"63\" data-question-number=\"64\" id=\"div_block_quiz_test_63\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"63\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"64\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 64: Chọn câu đúng khi nói về môn
-                                vị.</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"64\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 64: Chọn câu đúng khi nói về môn
+                                vị.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3773,9 +3773,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"64\" data-question-number=\"65\" id=\"div_block_quiz_test_64\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"64\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"65\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 65: Dọc theo bờ cong lớn của dạ dày có hai động
-                                mạch là?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"65\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 65: Dọc theo bờ cong lớn của dạ dày có hai động
+                                mạch là?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3833,9 +3833,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"65\" data-question-number=\"66\" id=\"div_block_quiz_test_65\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"65\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"66\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 66: Hai động mạch đi dọc theo bờ cong nhỏ dạ dày
-                                là?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"66\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 66: Hai động mạch đi dọc theo bờ cong nhỏ dạ dày
+                                là?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3893,9 +3893,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"66\" data-question-number=\"67\" id=\"div_block_quiz_test_66\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"66\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"67\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 67: Động mạch vị mạc nối trái xuất phát
-                                từ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"67\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 67: Động mạch vị mạc nối trái xuất phát
+                                từ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3953,9 +3953,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"67\" data-question-number=\"68\" id=\"div_block_quiz_test_67\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"67\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"68\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 68: Chuỗi hạch bạch huyết dọc theo bờ cong nhỏ của
-                                dạ dày nhận bạch huyết từ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"68\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 68: Chuỗi hạch bạch huyết dọc theo bờ cong nhỏ của
+                                dạ dày nhận bạch huyết từ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4013,9 +4013,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"68\" data-question-number=\"69\" id=\"div_block_quiz_test_68\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"68\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"69\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 69: Khi đến dạ dày, thần kinh lang thang trước cho
-                                hai nhánh nào?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"69\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 69: Khi đến dạ dày, thần kinh lang thang trước cho
+                                hai nhánh nào?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4073,9 +4073,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"69\" data-question-number=\"70\" id=\"div_block_quiz_test_69\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"69\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"70\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 70: Khi đến dạ dày, thân thần kinh lang thang sau
-                                cho hai nhánh nào?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"70\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 70: Khi đến dạ dày, thân thần kinh lang thang sau
+                                cho hai nhánh nào?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4133,9 +4133,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"70\" data-question-number=\"71\" id=\"div_block_quiz_test_70\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"70\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"71\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 71: Vị trí của lỗ môn vị ở
-                                đâu?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"71\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 71: Vị trí của lỗ môn vị ở
+                                đâu?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4187,9 +4187,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"71\" data-question-number=\"72\" id=\"div_block_quiz_test_71\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"71\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"72\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 72: Thần kinh lang thang trước của dạ dày là
-                                gì?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"72\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 72: Thần kinh lang thang trước của dạ dày là
+                                gì?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4241,9 +4241,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"72\" data-question-number=\"73\" id=\"div_block_quiz_test_72\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"72\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"73\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 73: Chọn câu đúng nhất về
-                                lách.</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"73\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 73: Chọn câu đúng nhất về
+                                lách.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4301,8 +4301,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"73\" data-question-number=\"74\" id=\"div_block_quiz_test_73\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"73\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"74\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 74: Lách có đặc điểm gì?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"74\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 74: Lách có đặc điểm gì?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4354,9 +4354,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"74\" data-question-number=\"75\" id=\"div_block_quiz_test_74\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"74\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"75\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 75: Tạng nào sau đây không liên quan tới
-                                lách?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"75\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 75: Tạng nào sau đây không liên quan tới
+                                lách?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4408,9 +4408,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"75\" data-question-number=\"76\" id=\"div_block_quiz_test_75\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"75\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"76\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 76: Trục lớn của lách song song và ngang mức
-                                với?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"76\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 76: Trục lớn của lách song song và ngang mức
+                                với?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4468,9 +4468,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"76\" data-question-number=\"77\" id=\"div_block_quiz_test_76\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"76\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"77\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 77: Mạch và thần kinh của lách đi vào lách qua
-                                đâu?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"77\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 77: Mạch và thần kinh của lách đi vào lách qua
+                                đâu?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4528,9 +4528,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"77\" data-question-number=\"78\" id=\"div_block_quiz_test_77\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"77\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"78\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 78: Lách có các đặc điểm sau, ngoại
-                                trừ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"78\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 78: Lách có các đặc điểm sau, ngoại
+                                trừ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4582,9 +4582,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"78\" data-question-number=\"79\" id=\"div_block_quiz_test_78\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"78\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"79\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 79: Mô tả lách, câu nào sau đây
-                                sai?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"79\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 79: Mô tả lách, câu nào sau đây
+                                sai?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4647,9 +4647,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"79\" data-question-number=\"80\" id=\"div_block_quiz_test_79\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"79\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"80\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 80: Cấp máu chủ yếu cho phần thân và đuôi tụy là
-                                các động mạch xuất phát từ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"80\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 80: Cấp máu chủ yếu cho phần thân và đuôi tụy là
+                                các động mạch xuất phát từ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4707,9 +4707,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"80\" data-question-number=\"81\" id=\"div_block_quiz_test_80\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"80\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"81\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 81: Các động mạch của đầu tụy và tá tràng hầu hết
-                                xuất phát từ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"81\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 81: Các động mạch của đầu tụy và tá tràng hầu hết
+                                xuất phát từ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4767,8 +4767,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"81\" data-question-number=\"82\" id=\"div_block_quiz_test_81\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"81\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"82\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 82: Chọn câu đúng.</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"82\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 82: Chọn câu đúng.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4826,8 +4826,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"82\" data-question-number=\"83\" id=\"div_block_quiz_test_82\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"82\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"83\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 83: Chọn câu đúng.</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"83\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 83: Chọn câu đúng.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4885,8 +4885,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"83\" data-question-number=\"84\" id=\"div_block_quiz_test_83\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"83\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"84\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 84: Phần trên tá tràng là gì?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"84\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 84: Phần trên tá tràng là gì?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4938,9 +4938,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"84\" data-question-number=\"85\" id=\"div_block_quiz_test_84\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"84\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"85\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 85: Thành phần nào sau đây đi phía trước phần
-                                xuống của tá tràng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"85\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 85: Thành phần nào sau đây đi phía trước phần
+                                xuống của tá tràng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4998,9 +4998,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"85\" data-question-number=\"86\" id=\"div_block_quiz_test_85\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"85\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"86\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 86: Thành phần nào sau đây bắt chéo phần ngang của
-                                tá tràng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"86\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 86: Thành phần nào sau đây bắt chéo phần ngang của
+                                tá tràng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5058,9 +5058,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"86\" data-question-number=\"87\" id=\"div_block_quiz_test_86\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"86\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"87\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 87: Nhú tá lớn có đặc điểm nào sau
-                                đây?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"87\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 87: Nhú tá lớn có đặc điểm nào sau
+                                đây?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5112,8 +5112,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"87\" data-question-number=\"88\" id=\"div_block_quiz_test_87\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"87\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"88\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 88: Câu nào sau đây sai?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"88\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 88: Câu nào sau đây sai?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5165,9 +5165,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"88\" data-question-number=\"89\" id=\"div_block_quiz_test_88\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"88\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"89\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 89: Về tá tràng, câu nào sau đây
-                                sai?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"89\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 89: Về tá tràng, câu nào sau đây
+                                sai?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5219,9 +5219,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"89\" data-question-number=\"90\" id=\"div_block_quiz_test_89\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"89\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"90\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 90: Góc tá hỗng tràng dính vào thành bụng sau
-                                bởi?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"90\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 90: Góc tá hỗng tràng dính vào thành bụng sau
+                                bởi?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5273,9 +5273,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"90\" data-question-number=\"91\" id=\"div_block_quiz_test_90\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"90\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"91\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 91: Tá tràng có đặc điểm nào, ngoại
-                                trừ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"91\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 91: Tá tràng có đặc điểm nào, ngoại
+                                trừ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5333,9 +5333,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"91\" data-question-number=\"92\" id=\"div_block_quiz_test_91\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"91\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"92\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 92: Phần nào sau đây nối từ tá tràng đến rốn
-                                gan?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"92\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 92: Phần nào sau đây nối từ tá tràng đến rốn
+                                gan?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5387,9 +5387,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"92\" data-question-number=\"93\" id=\"div_block_quiz_test_92\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"92\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"93\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 93: Trong dây chằng gan-tá tràng có thành phần
-                                nào?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"93\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 93: Trong dây chằng gan-tá tràng có thành phần
+                                nào?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5441,9 +5441,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"93\" data-question-number=\"94\" id=\"div_block_quiz_test_93\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"93\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"94\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 94: Động mạch nào sau đây đi trong dây chằng
-                                vị-kết tràng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"94\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 94: Động mạch nào sau đây đi trong dây chằng
+                                vị-kết tràng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5495,9 +5495,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"94\" data-question-number=\"95\" id=\"div_block_quiz_test_94\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"94\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"95\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 95: Phần nào của tá tràng dính chặt vào đầu tụy
-                                nhất?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"95\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 95: Phần nào của tá tràng dính chặt vào đầu tụy
+                                nhất?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5549,9 +5549,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"95\" data-question-number=\"96\" id=\"div_block_quiz_test_95\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"95\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"96\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 96: Phần nào của tá tràng đi phía trước cột sống
-                                thắt lưng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"96\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 96: Phần nào của tá tràng đi phía trước cột sống
+                                thắt lưng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5603,9 +5603,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"96\" data-question-number=\"97\" id=\"div_block_quiz_test_96\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"96\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"97\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 97: Mặt sau của khối tá tụy không liên quan với
-                                thành phần nào?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"97\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 97: Mặt sau của khối tá tụy không liên quan với
+                                thành phần nào?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5657,9 +5657,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"97\" data-question-number=\"98\" id=\"div_block_quiz_test_97\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"97\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"98\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 98: Động mạch nào sau đây xuất phát từ động mạch
-                                mạc treo tràng trên?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"98\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 98: Động mạch nào sau đây xuất phát từ động mạch
+                                mạc treo tràng trên?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5717,9 +5717,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"98\" data-question-number=\"99\" id=\"div_block_quiz_test_98\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"98\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"99\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 99: Động mạch nào dưới đây là nhánh của động mạch
-                                vị tá tràng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"99\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 99: Động mạch nào dưới đây là nhánh của động mạch
+                                vị tá tràng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5777,9 +5777,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"99\" data-question-number=\"100\" id=\"div_block_quiz_test_99\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"99\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"100\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 100: Nói về tụy và tá tràng, câu nào sau đây
-                                đúng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"100\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 100: Nói về tụy và tá tràng, câu nào sau đây
+                                đúng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5831,9 +5831,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"100\" data-question-number=\"101\" id=\"div_block_quiz_test_100\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"100\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"101\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 101: Động mạch tụy lớn xuất phát
-                                từ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"101\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 101: Động mạch tụy lớn xuất phát
+                                từ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5891,9 +5891,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"101\" data-question-number=\"102\" id=\"div_block_quiz_test_101\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"101\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"102\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 102: Động mạch nào dưới đây là nhánh của động mạch
-                                lách?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"102\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 102: Động mạch nào dưới đây là nhánh của động mạch
+                                lách?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5951,9 +5951,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"102\" data-question-number=\"103\" id=\"div_block_quiz_test_102\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"102\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"103\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 103: Động mạch vị tá tràng và động mạch mạc treo
-                                tràng trên thông nối với nhau qua đâu?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"103\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 103: Động mạch vị tá tràng và động mạch mạc treo
+                                tràng trên thông nối với nhau qua đâu?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6011,9 +6011,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"103\" data-question-number=\"104\" id=\"div_block_quiz_test_103\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"103\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"104\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 104: Về khuyết tụy, câu nào sau đây
-                                sai?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"104\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 104: Về khuyết tụy, câu nào sau đây
+                                sai?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6065,9 +6065,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"104\" data-question-number=\"105\" id=\"div_block_quiz_test_104\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"104\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"105\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 105: Về liên quan của thân tụy, câu nào sau đây
-                                sai?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"105\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 105: Về liên quan của thân tụy, câu nào sau đây
+                                sai?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6119,9 +6119,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"105\" data-question-number=\"106\" id=\"div_block_quiz_test_105\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"105\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"106\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 106: Tụy có các đặc điểm sau, ngoại
-                                trừ?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"106\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 106: Tụy có các đặc điểm sau, ngoại
+                                trừ?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6173,9 +6173,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"106\" data-question-number=\"107\" id=\"div_block_quiz_test_106\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"106\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"107\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 107: Một khối bướu của mỏm móc tụy có thể chèn ép
-                                thành phần nào sau đây sớm nhất?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"107\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 107: Một khối bướu của mỏm móc tụy có thể chèn ép
+                                thành phần nào sau đây sớm nhất?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6233,8 +6233,8 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"107\" data-question-number=\"108\" id=\"div_block_quiz_test_107\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"107\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"108\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 108: Chọn câu đúng về tụy.</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"108\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 108: Chọn câu đúng về tụy.</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6286,9 +6286,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"108\" data-question-number=\"109\" id=\"div_block_quiz_test_108\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"108\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"109\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 109: Cơ treo tá tràng đi từ trụ phải cơ hoành đến
-                                đâu?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"109\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 109: Cơ treo tá tràng đi từ trụ phải cơ hoành đến
+                                đâu?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6347,9 +6347,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"109\" data-question-number=\"110\" id=\"div_block_quiz_test_109\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"109\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"110\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 110: Thành phần nào sau đây đi phía trước phần
-                                xuống của tá tràng?</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"110\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 110: Thành phần nào sau đây đi phía trước phần
+                                xuống của tá tràng?</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6407,9 +6407,9 @@ class __TwigTemplate_002faaa8aafb04bd0b77d5d79499d0ff extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"110\" data-question-number=\"111\" id=\"div_block_quiz_test_110\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"110\" style=\"background:#fff;\">
-<div class=\"w3-large\">
-<button class=\"quiz-button btn btn-primary\" data-question=\"111\"><i class=\"fa fa-check-circle\"></i></button><span class=\"quiz-title\"><strong>Câu 111: Động mạch thân tạng chia thành ba nhánh là
-                                động mạch lách và</strong></span><br/>
+<div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"111\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 111: Động mạch thân tạng chia thành ba nhánh là
+                                động mạch lách và</strong></span></div></div>
+<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">

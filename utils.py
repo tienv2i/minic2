@@ -1,47 +1,42 @@
 import os
-import glob
+import re
 from bs4 import BeautifulSoup
 
-def process_html_file(input_path, output_path, question_counter):
-    with open(input_path, 'r', encoding='utf-8') as file:
-        soup = BeautifulSoup(file, 'html.parser')
+def clean_html(content):
+    soup = BeautifulSoup(content, 'html.parser')
     
-    for quiz_block in soup.find_all("div", class_="block-quiz-test"):
-        question_counter += 1
-        
-        # Cập nhật số thứ tự câu hỏi vào thuộc tính data-question-number
-        quiz_block["data-question-number"] = str(question_counter)
-        
-        # Thêm nút button ngay trước quiz-title trong div.w3-large
-        question_title_div = quiz_block.find("div", class_="w3-large")
-        if question_title_div:
-            quiz_title = question_title_div.find("span", class_="quiz-title")
-            if quiz_title:
-                button_tag = soup.new_tag("button")
-                button_tag["class"] = "quiz-button"
-                button_tag["data-question"] = str(question_counter)
-                button_tag.string = "Chọn câu này"
-                quiz_title.insert_before(button_tag)
+    # Loại bỏ tất cả các input[type="hidden"]
+    for hidden_input in soup.find_all('input', {'type': 'hidden'}):
+        hidden_input.decompose()
     
-    with open(output_path, 'w', encoding='utf-8') as file:
-        file.write(str(soup))
+    # Loại bỏ các thẻ <br> vô nghĩa dạng </div>(dấu cách hoặc xuống dòng)<br>(dấu cách hoặc xuống dòng)</div>
+    for br in soup.find_all('br'):
+        if br.previous_sibling and br.previous_sibling.name == 'div':
+            if not br.next_sibling or (br.next_sibling.name == 'div' and not br.next_sibling.text.strip()):
+                br.decompose()
     
-    return question_counter
+    return str(soup)
 
-def main():
-    input_dir = "./src/app/Views/quizz/contents/"
-    output_dir = "./src/app/Views/quizz/contents_2/"
-    os.makedirs(output_dir, exist_ok=True)
+def process_files(src_dir, dest_dir):
+    if not os.path.exists(dest_dir):
+        os.makedirs(dest_dir)
     
-    question_counter = 0
-    
-    html_files = glob.glob(os.path.join(input_dir, "*.html"))
-    for file_path in sorted(html_files):
-        file_name = os.path.basename(file_path)
-        output_path = os.path.join(output_dir, file_name)
-        question_counter = process_html_file(file_path, output_path, question_counter)
-    
-    print("Processing complete. Updated files are saved in contents_2 folder.")
+    for file_name in os.listdir(src_dir):
+        src_path = os.path.join(src_dir, file_name)
+        dest_path = os.path.join(dest_dir, file_name)
+        
+        if os.path.isfile(src_path) and file_name.endswith('.html'):
+            with open(src_path, 'r', encoding='utf-8') as file:
+                content = file.read()
+            
+            cleaned_content = clean_html(content)
+            
+            with open(dest_path, 'w', encoding='utf-8') as file:
+                file.write(cleaned_content)
+            
+            print(f"Processed: {file_name}")
 
 if __name__ == "__main__":
-    main()
+    src_directory = "./src/app/Views/quizz/contents_2"
+    dest_directory = "./src/app/Views/quizz/contents_3"
+    process_files(src_directory, dest_directory)

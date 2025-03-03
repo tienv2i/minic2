@@ -14,8 +14,8 @@ use Twig\Source;
 use Twig\Template;
 use Twig\TemplateWrapper;
 
-/* quizz/contents_2/timmach.html */
-class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
+/* quizz/contents_3/timmach.html */
+class __TwigTemplate_cecc3d96a35b16ab62d5da0ea8c63b82 extends Template
 {
     private Source $source;
     /**
@@ -48,10 +48,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"0\" data-question-number=\"1185\" id=\"div_block_quiz_test_0\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"0\" style=\"background: #fff\">
-<input name=\"Quiz[0][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cbc\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1185\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 1: Các động mạch sau đây xuất hiện từ mặt trước động mạch
                 cảnh ngoài, ngoại trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -101,10 +100,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"1\" data-question-number=\"1186\" id=\"div_block_quiz_test_1\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"1\" style=\"background: #fff\">
-<input name=\"Quiz[1][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cbd\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1186\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 2: Động mạch mặt có các đặc điểm sau đây, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -161,10 +159,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"2\" data-question-number=\"1187\" id=\"div_block_quiz_test_2\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"2\" style=\"background: #fff\">
-<input name=\"Quiz[2][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cbe\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1187\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 3: Thần kinh nào sau đây bắt chéo phía ngoài động mạch lưỡi
                 hai lần?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -216,10 +213,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"3\" data-question-number=\"1188\" id=\"div_block_quiz_test_3\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"3\" style=\"background: #fff\">
-<input name=\"Quiz[3][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cbf\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1188\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 4: Khi mô tả đường đi của động mạch hàm, người ta chia động
                 mạch thành ba đoạn dựa vào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -273,10 +269,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"4\" data-question-number=\"1189\" id=\"div_block_quiz_test_4\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"4\" style=\"background: #fff\">
-<input name=\"Quiz[4][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc0\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1189\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 5: Động mạch nào sau đây không phải là nhánh bên của động
                 mạch cảnh ngoài?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -332,10 +327,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"5\" data-question-number=\"1190\" id=\"div_block_quiz_test_5\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"5\" style=\"background: #fff\">
-<input name=\"Quiz[5][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc1\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1190\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 6: Động mạch cảnh ngoài chia thành hai nhánh tận là động
                 mạch hàm và động mạch thái dương nông ở vị trí nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -394,10 +388,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"6\" data-question-number=\"1191\" id=\"div_block_quiz_test_6\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"6\" style=\"background: #fff\">
-<input name=\"Quiz[6][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc2\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1191\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 7: Sau khi đi qua khỏi cổ xương hàm dưới, động mạch hàm đi
                 ngang qua mặt ngoài của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -445,9 +438,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"7\" data-question-number=\"1192\" id=\"div_block_quiz_test_7\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"7\" style=\"background: #fff\">
-<input name=\"Quiz[7][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc3\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1192\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 8: Động mạch dưới ổ mắt là nhánh của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -493,10 +485,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"8\" data-question-number=\"1193\" id=\"div_block_quiz_test_8\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"8\" style=\"background: #fff\">
-<input name=\"Quiz[8][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc4\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1193\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 9: Động mạch nào sau đây xuất phát từ động mạch hàm trước
                 khi động mạch này đi bắt ngang qua cơ chân bướm ngoài?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -548,10 +539,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"9\" data-question-number=\"1194\" id=\"div_block_quiz_test_9\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"9\" style=\"background: #fff\">
-<input name=\"Quiz[9][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc5\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1194\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 10: Sau khi đi qua khỏi cơ chân bướm ngoài, động mạch hàm
                 cho nhánh nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -633,9 +623,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"10\" data-question-number=\"1195\" id=\"div_block_quiz_test_10\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"10\" style=\"background: #fff\">
-<input name=\"Quiz[10][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc6\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1195\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 11: Động mạch ngang mặt là nhánh của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -692,10 +681,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"11\" data-question-number=\"1196\" id=\"div_block_quiz_test_11\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"11\" style=\"background: #fff\">
-<input name=\"Quiz[11][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc7\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1196\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 12: Khi cần, ta có thể bắt mạch ở phía trên mỏm gò má, ngay
                 trước lỗ tai ngoài. Đây là vị trí của động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -745,11 +733,10 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"12\" data-question-number=\"1197\" id=\"div_block_quiz_test_12\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"12\" style=\"background: #fff\">
-<input name=\"Quiz[12][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc8\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1197\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 13: Một động mạch đi vào tuyến mang tai từ sau ra trước rồi
                 bắt chéo phía ngoài cơ cắn và ở phía dưới cung gò má, đó
                 là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -797,10 +784,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"13\" data-question-number=\"1198\" id=\"div_block_quiz_test_13\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"13\" style=\"background: #fff\">
-<input name=\"Quiz[13][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cc9\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1198\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 14: Thân động mạch cánh tay đầu chia thành động mạch cảnh
                 chung phải và động mạch dưới đòn phải ở ngang vị trí?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -852,10 +838,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"14\" data-question-number=\"1199\" id=\"div_block_quiz_test_14\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"14\" style=\"background: #fff\">
-<input name=\"Quiz[14][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cca\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1199\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 15: Sau khi cho nhánh động mạch giáp trên, động mạch cảnh
                 ngoài sẽ cho nhánh kế tiếp là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -909,9 +894,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"15\" data-question-number=\"1200\" id=\"div_block_quiz_test_15\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"15\" style=\"background: #fff\">
-<input name=\"Quiz[15][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ccb\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1200\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 16: Về các động mạch cảnh, câu nào sau đây đúng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -963,9 +947,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"16\" data-question-number=\"1201\" id=\"div_block_quiz_test_16\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"16\" style=\"background: #fff\">
-<input name=\"Quiz[16][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ccc\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1201\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 17: Động mạch môi dưới là nhánh bên của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1030,10 +1013,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"17\" data-question-number=\"1202\" id=\"div_block_quiz_test_17\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"17\" style=\"background: #fff\">
-<input name=\"Quiz[17][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ccd\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1202\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 18: Thành phần nào sau đây đi trong phần sâu tuyến nước bọt
                 mang tai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1081,10 +1063,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"18\" data-question-number=\"1203\" id=\"div_block_quiz_test_18\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"18\" style=\"background: #fff\">
-<input name=\"Quiz[18][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cce\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1203\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 19: Động mạch nào sau đây không xuất phát từ động mạch cảnh
                 ngoài?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1140,9 +1121,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"19\" data-question-number=\"1204\" id=\"div_block_quiz_test_19\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"19\" style=\"background: #fff\">
-<input name=\"Quiz[19][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ccf\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1204\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 20: Động mạch cơ cắn là nhánh của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1190,10 +1170,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"20\" data-question-number=\"1205\" id=\"div_block_quiz_test_20\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"20\" style=\"background: #fff\">
-<input name=\"Quiz[20][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd0\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1205\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 21: Động mạch lưỡi cho các nhánh sau đây, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1262,10 +1241,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"21\" data-question-number=\"1206\" id=\"div_block_quiz_test_21\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"21\" style=\"background: #fff\">
-<input name=\"Quiz[21][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd1\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1206\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 22: Động mạch nào sau đây cho nhánh động mạch ngang
                 mặt?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1324,9 +1302,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"22\" data-question-number=\"1207\" id=\"div_block_quiz_test_22\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"22\" style=\"background: #fff\">
-<input name=\"Quiz[22][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd2\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1207\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 23: Nhánh nào sau đây không thuộc động mạch hàm?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1407,10 +1384,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"23\" data-question-number=\"1208\" id=\"div_block_quiz_test_23\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"23\" style=\"background: #fff\">
-<input name=\"Quiz[23][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd3\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1208\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 24: Nhánh nào sau đây không thuộc động mạch dưới
                 đòn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1488,10 +1464,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"24\" data-question-number=\"1209\" id=\"div_block_quiz_test_24\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"24\" style=\"background: #fff\">
-<input name=\"Quiz[24][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd4\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1209\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 25: Động mạch dưới đòn khi đi qua khe sườn đòn thì đổi tên
                 thành gì?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1543,10 +1518,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"25\" data-question-number=\"1210\" id=\"div_block_quiz_test_25\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"25\" style=\"background: #fff\">
-<input name=\"Quiz[25][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd5\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1210\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 26: Động mạch nào sau đây xuất phát từ động mạch dưới
                 đòn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1623,10 +1597,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"26\" data-question-number=\"1211\" id=\"div_block_quiz_test_26\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"26\" style=\"background: #fff\">
-<input name=\"Quiz[26][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd6\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1211\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 27: Động mạch nào sau đây xuất phát trực tiếp từ cung động
                 mạch chủ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1678,10 +1651,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"27\" data-question-number=\"1212\" id=\"div_block_quiz_test_27\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"27\" style=\"background: #fff\">
-<input name=\"Quiz[27][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd7\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1212\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 28: Khi mô tả đường đi và liên quan của động mạch dưới đòn,
                 người ta chia động mạch dưới đòn thành ba đoạn dựa vào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1738,9 +1710,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"28\" data-question-number=\"1213\" id=\"div_block_quiz_test_28\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"28\" style=\"background: #fff\">
-<input name=\"Quiz[28][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd8\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1213\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 29: Động mạch màng ngoài tim hoành là nhánh của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1799,9 +1770,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"29\" data-question-number=\"1214\" id=\"div_block_quiz_test_29\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"29\" style=\"background: #fff\">
-<input name=\"Quiz[29][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cd9\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1214\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 30: Về động mạch ngực trong, điều nào sau đây sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1853,9 +1823,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"30\" data-question-number=\"1215\" id=\"div_block_quiz_test_30\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"30\" style=\"background: #fff\">
-<input name=\"Quiz[30][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cda\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1215\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 31: Động mạch đốt sống là nhánh bên của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1932,9 +1901,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"31\" data-question-number=\"1216\" id=\"div_block_quiz_test_31\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"31\" style=\"background: #fff\">
-<input name=\"Quiz[31][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cdb\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1216\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 32: Mô tả động mạch dưới đòn, câu nào sau đây sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -1993,10 +1961,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"32\" data-question-number=\"1217\" id=\"div_block_quiz_test_32\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"32\" style=\"background: #fff\">
-<input name=\"Quiz[32][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cdc\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1217\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 33: Động mạch nào sau đây không phải là nhánh của động mạch
                 dưới đòn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2069,9 +2036,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"33\" data-question-number=\"1218\" id=\"div_block_quiz_test_33\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"33\" style=\"background: #fff\">
-<input name=\"Quiz[33][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cdd\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1218\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 34: Tĩnh mạch cảnh ngoài đổ vào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2123,10 +2089,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"34\" data-question-number=\"1219\" id=\"div_block_quiz_test_34\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"34\" style=\"background: #fff\">
-<input name=\"Quiz[34][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cde\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1219\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 35: Tĩnh mạch tay đầu được hình thành do sự hợp lưu
                 giữa?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2178,10 +2143,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"35\" data-question-number=\"1220\" id=\"div_block_quiz_test_35\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"35\" style=\"background: #fff\">
-<input name=\"Quiz[35][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cdf\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1220\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 36: Tĩnh mạch nào sau đây đi bắt chéo phía ngoài cơ ức đòn
                 chũm?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2233,10 +2197,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"36\" data-question-number=\"1221\" id=\"div_block_quiz_test_36\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"36\" style=\"background: #fff\">
-<input name=\"Quiz[36][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce0\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1221\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 37: Các tĩnh mạch sau đây được xem là nhóm các tĩnh mạch
                 nông của đầu mặt cổ, ngoại trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2310,9 +2273,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"37\" data-question-number=\"1222\" id=\"div_block_quiz_test_37\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"37\" style=\"background: #fff\">
-<input name=\"Quiz[37][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce1\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1222\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 38: Tĩnh mạch mặt chung được tạo thành từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2364,9 +2326,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"38\" data-question-number=\"1223\" id=\"div_block_quiz_test_38\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"38\" style=\"background: #fff\">
-<input name=\"Quiz[38][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce2\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1223\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 39: Tĩnh mạch mặt chung đổ về?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2440,9 +2401,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"39\" data-question-number=\"1224\" id=\"div_block_quiz_test_39\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"39\" style=\"background: #fff\">
-<input name=\"Quiz[39][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce3\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1224\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 40: Tĩnh mạch cảnh ngoài hình thành từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2512,10 +2472,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"40\" data-question-number=\"1225\" id=\"div_block_quiz_test_40\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"40\" style=\"background: #fff\">
-<input name=\"Quiz[40][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce4\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1225\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 41: Tĩnh mạch thái dương nông nối với tĩnh mạch thái dương
                 giữa tạo thành?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2567,10 +2526,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"41\" data-question-number=\"1226\" id=\"div_block_quiz_test_41\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"41\" style=\"background: #fff\">
-<input name=\"Quiz[41][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce5\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1226\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 42: Máu tĩnh mạch từ vùng mặt và da đầu phía trước đổ về
                 tĩnh mạch nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2630,10 +2588,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"42\" data-question-number=\"1227\" id=\"div_block_quiz_test_42\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"42\" style=\"background: #fff\">
-<input name=\"Quiz[42][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce6\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1227\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 43: Máu tĩnh mạch từ da đầu phía sau và vùng cổ đổ về tĩnh
                 mạch nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2685,10 +2642,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"43\" data-question-number=\"1228\" id=\"div_block_quiz_test_43\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"43\" style=\"background: #fff\">
-<input name=\"Quiz[43][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce7\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1228\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 44: Về mô tả tĩnh mạch cảnh ngoài, câu nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2740,9 +2696,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"44\" data-question-number=\"1229\" id=\"div_block_quiz_test_44\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"44\" style=\"background: #fff\">
-<input name=\"Quiz[44][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce8\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1229\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 45: Về động mạch đốt sống, điều nào sau đây đúng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2807,9 +2762,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"45\" data-question-number=\"1230\" id=\"div_block_quiz_test_45\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"45\" style=\"background: #fff\">
-<input name=\"Quiz[45][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ce9\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1230\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 46: Động mạch trên vai xuất phát từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2857,10 +2811,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"46\" data-question-number=\"1231\" id=\"div_block_quiz_test_46\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"46\" style=\"background: #fff\">
-<input name=\"Quiz[46][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cea\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1231\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 47: Trên thiết đồ ngang qua cổ cho thấy có động mạch giáp
                 dưới cũng sẽ cho thấy các cấu trúc sau, ngoại trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2921,10 +2874,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"47\" data-question-number=\"1232\" id=\"div_block_quiz_test_47\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"47\" style=\"background: #fff\">
-<input name=\"Quiz[47][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ceb\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1232\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 48: Các thành phần sau đây nằm trong bao cảnh, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -2974,9 +2926,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"48\" data-question-number=\"1233\" id=\"div_block_quiz_test_48\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"48\" style=\"background: #fff\">
-<input name=\"Quiz[48][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cec\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1233\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 49: Động mạch cảnh ngoài xuất phát ở ngang mức với?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3024,9 +2975,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"49\" data-question-number=\"1234\" id=\"div_block_quiz_test_49\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"49\" style=\"background: #fff\">
-<input name=\"Quiz[49][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2ced\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1234\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 50: Bắt chéo ngoài cơ chân bướm ngoài?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3074,10 +3024,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"50\" data-question-number=\"1235\" id=\"div_block_quiz_test_50\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"50\" style=\"background: #fff\">
-<input name=\"Quiz[50][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cee\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1235\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 51: Hai lần bị dây thần kinh hạ thiệt bắt chéo phía
                 ngoài?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3125,9 +3074,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"51\" data-question-number=\"1236\" id=\"div_block_quiz_test_51\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"51\" style=\"background: #fff\">
-<input name=\"Quiz[51][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cef\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1236\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 52: Cho nhánh gò má ổ mắt?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3175,9 +3123,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"52\" data-question-number=\"1237\" id=\"div_block_quiz_test_52\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"52\" style=\"background: #fff\">
-<input name=\"Quiz[52][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf0\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1237\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 53: Tận cùng bằng động mạch góc</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3225,12 +3172,11 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"53\" data-question-number=\"1238\" id=\"div_block_quiz_test_53\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"53\" style=\"background: #fff\">
-<input name=\"Quiz[53][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf1\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1238\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 54: Động mạch bướm khẩu cái 1. Xuất phát từ đoạn thứ ba của
                 động mạch hàm 2. Không cho nhánh nối với các động mạch khác 3.
                 Cấp máu cho thành ngoài và thành trong ổ mũi 4. Cho nhánh tận là
                 động mạch khẩu cái xuống</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3281,13 +3227,12 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"54\" data-question-number=\"1239\" id=\"div_block_quiz_test_54\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"54\" style=\"background: #fff\">
-<input name=\"Quiz[54][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf2\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1239\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 55: Động mạch cảnh ngoài 1. Xuất phát từ động mạch cảnh
                 chung ở ngang bờ trên sụn giáp 2. Cho hai nhánh tận là động mạch
                 hàm và động mạch thái dưomg nông 3. Là động mạch chính cung cấp
                 máu cho các cơ, tuyến vùng đầu, mặt cổ 4. Không cho nhánh nối
                 với các động mạch khác</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3335,9 +3280,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"55\" data-question-number=\"1240\" id=\"div_block_quiz_test_55\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"55\" style=\"background: #fff\">
-<input name=\"Quiz[55][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf3\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1240\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 56: Tĩnh mạch nào sau đây đổ về tĩnh mạch bán đơn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3396,9 +3340,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"56\" data-question-number=\"1241\" id=\"div_block_quiz_test_56\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"56\" style=\"background: #fff\">
-<input name=\"Quiz[56][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf4\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1241\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 57: Tĩnh mạch bán đơn phụ đổ vào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3448,10 +3391,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"57\" data-question-number=\"1242\" id=\"div_block_quiz_test_57\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"57\" style=\"background: #fff\">
-<input name=\"Quiz[57][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf5\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1242\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 58: Mô tả về tĩnh mạch đơn, chi tiết nào sau đây
                 đúng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3503,9 +3445,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"58\" data-question-number=\"1243\" id=\"div_block_quiz_test_58\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"58\" style=\"background: #fff\">
-<input name=\"Quiz[58][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf6\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1243\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 59: Tĩnh mạch đơn đổ về?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3557,10 +3498,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"59\" data-question-number=\"1244\" id=\"div_block_quiz_test_59\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"59\" style=\"background: #fff\">
-<input name=\"Quiz[59][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf7\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1244\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 60: Động mạch nào sau đây không phải là nhánh của động mạch
                 thân tạng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3612,10 +3552,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"60\" data-question-number=\"1245\" id=\"div_block_quiz_test_60\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"60\" style=\"background: #fff\">
-<input name=\"Quiz[60][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf8\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1245\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 61: Cấu trúc nào sau đây nằm phía sau đoạn sau tụy của động
                 mạch mạc treo tràng trên?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3671,10 +3610,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"61\" data-question-number=\"1246\" id=\"div_block_quiz_test_61\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"61\" style=\"background: #fff\">
-<input name=\"Quiz[61][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cf9\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1246\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 62: Khi áp lực tĩnh mạch cửa tăng, tĩnh mạch nào sau đây có
                 thể sẽ bị giãn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3724,10 +3662,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"62\" data-question-number=\"1247\" id=\"div_block_quiz_test_62\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"62\" style=\"background: #fff\">
-<input name=\"Quiz[62][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cfa\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1247\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 63: Tĩnh mạch mạc treo tràng dưới đổ về tĩnh mạch nào sau
                 đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3777,10 +3714,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"63\" data-question-number=\"1248\" id=\"div_block_quiz_test_63\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"63\" style=\"background: #fff\">
-<input name=\"Quiz[63][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cfb\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1248\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 64: Động mạch nào sau đây xuất phát từ động mạch gan
                 riêng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3832,9 +3768,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"64\" data-question-number=\"1249\" id=\"div_block_quiz_test_64\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"64\" style=\"background: #fff\">
-<input name=\"Quiz[64][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cfc\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1249\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 65: Động mạch gan chung chia hai nhánh là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3886,10 +3821,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"65\" data-question-number=\"1250\" id=\"div_block_quiz_test_65\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"65\" style=\"background: #fff\">
-<input name=\"Quiz[65][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cfd\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1250\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 66: Phần nào sau đây ở phía sau động mạch mạc treo tràng
                 trên?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3939,9 +3873,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"66\" data-question-number=\"1251\" id=\"div_block_quiz_test_66\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"66\" style=\"background: #fff\">
-<input name=\"Quiz[66][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cfe\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1251\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 67: Động mạch ruột thừa xuất phát từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -3993,10 +3926,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"67\" data-question-number=\"1252\" id=\"div_block_quiz_test_67\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"67\" style=\"background: #fff\">
-<input name=\"Quiz[67][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cff\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1252\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 68: Tĩnh mạch nào sau đây có liên quan trong trường hợp
                 tăng áp lực tĩnh mạch cửa?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4055,9 +3987,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"68\" data-question-number=\"1253\" id=\"div_block_quiz_test_68\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"68\" style=\"background: #fff\">
-<input name=\"Quiz[68][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d00\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1253\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 69: Động mạch thân tạng chia thành ba nhánh là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4109,10 +4040,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"69\" data-question-number=\"1254\" id=\"div_block_quiz_test_69\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"69\" style=\"background: #fff\">
-<input name=\"Quiz[69][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d01\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1254\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 70: Động mạch nào sau đây không xuất phát từ động mạch chủ
                 bụng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4170,9 +4100,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"70\" data-question-number=\"1255\" id=\"div_block_quiz_test_70\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"70\" style=\"background: #fff\">
-<input name=\"Quiz[70][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d02\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1255\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 71: Động mạch vị phải tách ra từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4224,10 +4153,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"71\" data-question-number=\"1256\" id=\"div_block_quiz_test_71\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"71\" style=\"background: #fff\">
-<input name=\"Quiz[71][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d03\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1256\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 72: Mô tả mạch máu cung cấp cho dạ dày, câu nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4285,9 +4213,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"72\" data-question-number=\"1257\" id=\"div_block_quiz_test_72\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"72\" style=\"background: #fff\">
-<input name=\"Quiz[72][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d04\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1257\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 73: Tĩnh mạch vị phải và tĩnh mạch vị trái đổ về?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4337,10 +4264,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"73\" data-question-number=\"1258\" id=\"div_block_quiz_test_73\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"73\" style=\"background: #fff\">
-<input name=\"Quiz[73][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d05\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1258\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 74: Dọc theo bờ cong lớn dạ dày có hai động mạch là động
                 mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4392,10 +4318,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"74\" data-question-number=\"1259\" id=\"div_block_quiz_test_74\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"74\" style=\"background: #fff\">
-<input name=\"Quiz[74][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d06\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1259\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 75: Hai động mạch đi dọc theo bờ cong nhỏ dạ dày là động
                 mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4447,10 +4372,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"75\" data-question-number=\"1260\" id=\"div_block_quiz_test_75\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"75\" style=\"background: #fff\">
-<input name=\"Quiz[75][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d07\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1260\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 76: Động mạch vị mạc nối trái xuất phát từ động mạch
                 nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4502,10 +4426,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"76\" data-question-number=\"1261\" id=\"div_block_quiz_test_76\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"76\" style=\"background: #fff\">
-<input name=\"Quiz[76][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d08\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1261\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 77: Cấp máu chủ yếu cho phần thân và đuôi tụy là các động
                 mạch xuất phát từ động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4557,10 +4480,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"77\" data-question-number=\"1262\" id=\"div_block_quiz_test_77\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"77\" style=\"background: #fff\">
-<input name=\"Quiz[77][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d09\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1262\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 78: Các động mạch của đầu tụy và tá tràng hầu hết xuất phát
                 từ động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4619,10 +4541,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"78\" data-question-number=\"1263\" id=\"div_block_quiz_test_78\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"78\" style=\"background: #fff\">
-<input name=\"Quiz[78][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d0a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1263\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 79: Động mạch nào sau đây đi trong dây chằng vị - kết
                 tràng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4674,10 +4595,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"79\" data-question-number=\"1264\" id=\"div_block_quiz_test_79\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"79\" style=\"background: #fff\">
-<input name=\"Quiz[79][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d0b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1264\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 80: Động mạch nào sau đây xuất phát từ động mạch mạc treo
                 tràng trên?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4729,10 +4649,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"80\" data-question-number=\"1265\" id=\"div_block_quiz_test_80\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"80\" style=\"background: #fff\">
-<input name=\"Quiz[80][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d0c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1265\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 81: Động mạch nào dưới đây là nhánh của động mạch vị tá
                 tràng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4784,9 +4703,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"81\" data-question-number=\"1266\" id=\"div_block_quiz_test_81\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"81\" style=\"background: #fff\">
-<input name=\"Quiz[81][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d0d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1266\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 82: Động mạch tụy lớn xuất phát từ động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4838,10 +4756,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"82\" data-question-number=\"1267\" id=\"div_block_quiz_test_82\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"82\" style=\"background: #fff\">
-<input name=\"Quiz[82][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d0e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1267\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 83: Động mạch nào dưới đây là nhánh của động mạch
                 lách?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4893,10 +4810,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"83\" data-question-number=\"1268\" id=\"div_block_quiz_test_83\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"83\" style=\"background: #fff\">
-<input name=\"Quiz[83][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d0f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1268\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 84: Động mạch vị - tá tràng và động mạch mạc treo tràng
                 trên thông nối với nhau qua động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -4948,10 +4864,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"84\" data-question-number=\"1269\" id=\"div_block_quiz_test_84\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"84\" style=\"background: #fff\">
-<input name=\"Quiz[84][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d10\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1269\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 85: Thông thường, động mạch túi mật xuất phát từ động mạch
                 nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5003,9 +4918,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"85\" data-question-number=\"1270\" id=\"div_block_quiz_test_85\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"85\" style=\"background: #fff\">
-<input name=\"Quiz[85][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d11\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1270\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 86: Sau khi sinh, tĩnh mạch rốn trở thành gì?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5057,10 +4971,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"86\" data-question-number=\"1271\" id=\"div_block_quiz_test_86\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"86\" style=\"background: #fff\">
-<input name=\"Quiz[86][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d12\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1271\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 87: Tĩnh mạch cửa được hình thành từ tĩnh mạch lách và
                 gì?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5141,10 +5054,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"87\" data-question-number=\"1272\" id=\"div_block_quiz_test_87\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"87\" style=\"background: #fff\">
-<input name=\"Quiz[87][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d13\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1272\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 88: Tĩnh mạch nào sau đây không đổ về hệ tĩnh mạch
                 cửa?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5202,10 +5114,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"88\" data-question-number=\"1273\" id=\"div_block_quiz_test_88\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"88\" style=\"background: #fff\">
-<input name=\"Quiz[88][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d14\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1273\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 89: Tĩnh mạch cửa dẫn máu từ ống tiêu hóa, tụy, lách và đổ
                 vào đâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5251,9 +5162,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"89\" data-question-number=\"1274\" id=\"div_block_quiz_test_89\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"89\" style=\"background: #fff\">
-<input name=\"Quiz[89][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d15\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1274\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 90: Chọn câu đúng:</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5307,11 +5217,10 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"90\" data-question-number=\"1275\" id=\"div_block_quiz_test_90\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"90\" style=\"background: #fff\">
-<input name=\"Quiz[90][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d16\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1275\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 91: Ở đoạn sau tụy, động mạch mạc treo tràng trên nằm trong
                 một tứ giác tĩnh mạch.Tĩnh mạch nào sau đây không là thành phần
                 của tứ giác tĩnh mạch đó?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5368,10 +5277,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"91\" data-question-number=\"1276\" id=\"div_block_quiz_test_91\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"91\" style=\"background: #fff\">
-<input name=\"Quiz[91][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d17\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1276\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 92: Động mạch nào sau đây xuất phát từ động mạch mạc treo
                 tràng dưới?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5423,10 +5331,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"92\" data-question-number=\"1277\" id=\"div_block_quiz_test_92\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"92\" style=\"background: #fff\">
-<input name=\"Quiz[92][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d18\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1277\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 93: Chọn câu đúng khi mô tả về động mạch mạc treo tràng
                 trên?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5485,10 +5392,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"93\" data-question-number=\"1278\" id=\"div_block_quiz_test_93\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"93\" style=\"background: #fff\">
-<input name=\"Quiz[93][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d19\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1278\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 94: Các thành phần sau đây được cấp máu bởi động mạch hồi
                 kết tràng, ngoại trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5542,10 +5448,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"94\" data-question-number=\"1279\" id=\"div_block_quiz_test_94\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"94\" style=\"background: #fff\">
-<input name=\"Quiz[94][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d1a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1279\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 95: Ở đoạn trước khối tá tụy, động mạch mạc treo tràng trên
                 nằm ngay phía trước bộ phận nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5595,10 +5500,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"95\" data-question-number=\"1280\" id=\"div_block_quiz_test_95\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"95\" style=\"background: #fff\">
-<input name=\"Quiz[95][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d1b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1280\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 96: Động mạch mạc treo tràng trên không cho nhánh
                 đến?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5648,10 +5552,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"96\" data-question-number=\"1281\" id=\"div_block_quiz_test_96\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"96\" style=\"background: #fff\">
-<input name=\"Quiz[96][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d1c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1281\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 97: Động mạch nào sau đây không phải là nhánh của động mạch
                 hồi kết tràng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5703,9 +5606,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"97\" data-question-number=\"1282\" id=\"div_block_quiz_test_97\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"97\" style=\"background: #fff\">
-<input name=\"Quiz[97][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d1d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1282\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 98: Động mạch mạc treo tràng dưới có đặc điểm gì?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5763,10 +5665,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"98\" data-question-number=\"1283\" id=\"div_block_quiz_test_98\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"98\" style=\"background: #fff\">
-<input name=\"Quiz[98][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d1e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1283\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 99: Động mạch nào sau đây không cho nhánh đến nuôi ruột
                 già?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5824,10 +5725,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"99\" data-question-number=\"1284\" id=\"div_block_quiz_test_99\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"99\" style=\"background: #fff\">
-<input name=\"Quiz[99][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d1f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1284\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 100: Nhánh tận cùng của động mạch mạc treo tràng dưới là
                 động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5879,10 +5779,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"100\" data-question-number=\"1285\" id=\"div_block_quiz_test_100\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"100\" style=\"background: #fff\">
-<input name=\"Quiz[100][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d20\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1285\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 101: Động mạch mạc treo tràng dưới có đặc điểm nào sau
                 đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5942,10 +5841,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"101\" data-question-number=\"1286\" id=\"div_block_quiz_test_101\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"101\" style=\"background: #fff\">
-<input name=\"Quiz[101][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d21\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1286\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 102: Động mạch nào sau đây không phải là nhánh của động
                 mạch chậu trong?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -5997,9 +5895,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"102\" data-question-number=\"1287\" id=\"div_block_quiz_test_102\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"102\" style=\"background: #fff\">
-<input name=\"Quiz[102][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d22\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1287\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 103: Vòi tử cung được cấp máu bởi động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6051,9 +5948,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"103\" data-question-number=\"1288\" id=\"div_block_quiz_test_103\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"103\" style=\"background: #fff\">
-<input name=\"Quiz[103][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d23\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1288\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 104: Động mạch tử cung là nhánh của động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6105,10 +6001,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"104\" data-question-number=\"1289\" id=\"div_block_quiz_test_104\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"104\" style=\"background: #fff\">
-<input name=\"Quiz[104][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d24\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1289\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 105: Động mạch tinh hoàn có các đặc điểm, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6166,10 +6061,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"105\" data-question-number=\"1290\" id=\"div_block_quiz_test_105\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"105\" style=\"background: #fff\">
-<input name=\"Quiz[105][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d25\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1290\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 106: Động mạch chủ bụng chia thành hai động mạch chậu chung
                 ở vị trí nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6221,10 +6115,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"106\" data-question-number=\"1291\" id=\"div_block_quiz_test_106\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"106\" style=\"background: #fff\">
-<input name=\"Quiz[106][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d26\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1291\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 107: Động mạch chậu chung chia thành động mạch chậu ngoài
                 và động mạch chậu trong ở vị trí nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6276,11 +6169,10 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"107\" data-question-number=\"1292\" id=\"div_block_quiz_test_107\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"107\" style=\"background: #fff\">
-<input name=\"Quiz[107][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d27\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1292\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 108: Động mạch chậu trong khi đến bờ trên của khuyết ngồi
                 lớn thì chia thành thân trước và thân sau, thân sau cho nhánh
                 bên nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6335,10 +6227,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"108\" data-question-number=\"1293\" id=\"div_block_quiz_test_108\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"108\" style=\"background: #fff\">
-<input name=\"Quiz[108][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d28\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1293\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 109: Thân trước của động mạch chậu trong cho các nhánh bên
                 sau đây, ngoại trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6391,10 +6282,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"109\" data-question-number=\"1294\" id=\"div_block_quiz_test_109\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"109\" style=\"background: #fff\">
-<input name=\"Quiz[109][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d29\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1294\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 110: Động mạch nào sau đây không đi qua khuyết ngồi
                 lớn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6451,10 +6341,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"110\" data-question-number=\"1295\" id=\"div_block_quiz_test_110\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"110\" style=\"background: #fff\">
-<input name=\"Quiz[110][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d2a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1295\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 111: Xuất phát từ động mạch thân tạng và đi ở bờ cong nhỏ
                 dạ dày.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6506,9 +6395,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"111\" data-question-number=\"1296\" id=\"div_block_quiz_test_111\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"111\" style=\"background: #fff\">
-<input name=\"Quiz[111][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d2b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1296\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 112: Cho nhánh động mạch kết tràng phải.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6560,9 +6448,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"112\" data-question-number=\"1297\" id=\"div_block_quiz_test_112\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"112\" style=\"background: #fff\">
-<input name=\"Quiz[112][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d2c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1297\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 113: Cho nhánh động mạch vị phải.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6614,9 +6501,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"113\" data-question-number=\"1298\" id=\"div_block_quiz_test_113\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"113\" style=\"background: #fff\">
-<input name=\"Quiz[113][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d2d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1298\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 114: Cho nhánh động mạch trực tràng trên.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6668,10 +6554,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"114\" data-question-number=\"1299\" id=\"div_block_quiz_test_114\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"114\" style=\"background: #fff\">
-<input name=\"Quiz[114][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d2e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1299\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 115: Nguyên ủy của các động mạch: Động mạch cơ
                 hoành.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6723,10 +6608,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"115\" data-question-number=\"1300\" id=\"div_block_quiz_test_115\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"115\" style=\"background: #fff\">
-<input name=\"Quiz[115][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d2f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1300\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 116: Nguyên ủy của các động mạch: Động mạch hoành
                 dưới.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6778,10 +6662,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"116\" data-question-number=\"1301\" id=\"div_block_quiz_test_116\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"116\" style=\"background: #fff\">
-<input name=\"Quiz[116][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d30\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1301\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 117: Nguyên ủy của các động mạch: Động mạch vị
                 trái.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6833,10 +6716,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"117\" data-question-number=\"1302\" id=\"div_block_quiz_test_117\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"117\" style=\"background: #fff\">
-<input name=\"Quiz[117][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d31\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1302\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 118: Nguyên ủy của các động mạch: Động mạch vị mạc nối
                 trái.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6888,10 +6770,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"118\" data-question-number=\"1303\" id=\"div_block_quiz_test_118\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"118\" style=\"background: #fff\">
-<input name=\"Quiz[118][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d32\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1303\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 119: Khi mô tả, động mạch nách được chia thành ba đoạn dựa
                 vào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -6946,9 +6827,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"119\" data-question-number=\"1304\" id=\"div_block_quiz_test_119\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"119\" style=\"background: #fff\">
-<input name=\"Quiz[119][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d33\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1304\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 120: Động mạch nách có đặc điểm sau đây, ngoại trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7006,10 +6886,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"120\" data-question-number=\"1305\" id=\"div_block_quiz_test_120\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"120\" style=\"background: #fff\">
-<input name=\"Quiz[120][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d34\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1305\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 121: Động mạch nách cho các nhánh bên sau đây, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7067,10 +6946,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"121\" data-question-number=\"1306\" id=\"div_block_quiz_test_121\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"121\" style=\"background: #fff\">
-<input name=\"Quiz[121][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d35\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1306\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 122: Động mạch nách đổi tên thành động mạch cánh tay
                 khi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7122,9 +7000,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"122\" data-question-number=\"1307\" id=\"div_block_quiz_test_122\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"122\" style=\"background: #fff\">
-<input name=\"Quiz[122][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d36\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1307\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 123: Không nên thắt động mạch nách ở khoảng giữa.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7182,10 +7059,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"123\" data-question-number=\"1308\" id=\"div_block_quiz_test_123\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"123\" style=\"background: #fff\">
-<input name=\"Quiz[123][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d37\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1308\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 124: Động mạch nào sau đây không phải là nhánh của động
                 mạch nách?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7237,10 +7113,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"124\" data-question-number=\"1309\" id=\"div_block_quiz_test_124\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"124\" style=\"background: #fff\">
-<input name=\"Quiz[124][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d38\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1309\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 125: Khi phẫu tích vùng cánh tay sau ta gặp một động mạch
                 đi cùng thần kinh quay, động mạch đó chính là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7292,10 +7167,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"125\" data-question-number=\"1310\" id=\"div_block_quiz_test_125\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"125\" style=\"background: #fff\">
-<input name=\"Quiz[125][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d39\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1310\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 126: Ở đoạn trên cơ ngực bé, động mạch nách cho nhánh bên
                 là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7347,10 +7221,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"126\" data-question-number=\"1311\" id=\"div_block_quiz_test_126\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"126\" style=\"background: #fff\">
-<input name=\"Quiz[126][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d3a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1311\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 127: Ở vòng nối quanh vai, nhánh bên của động mạch nách nối
                 với động mạch nào sau đây của động mạch dưới đòn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7402,10 +7275,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"127\" data-question-number=\"1312\" id=\"div_block_quiz_test_127\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"127\" style=\"background: #fff\">
-<input name=\"Quiz[127][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d3b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1312\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 128: Ở vòng nối quanh vai, nhánh nào sau đây của động mạch
                 nách nối với nhánh bên của động mạch dưới đòn?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7457,9 +7329,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"128\" data-question-number=\"1313\" id=\"div_block_quiz_test_128\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"128\" style=\"background: #fff\">
-<input name=\"Quiz[128][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d3c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1313\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 129: Động mạch bên trụ dưới là nhánh bên của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7511,10 +7382,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"129\" data-question-number=\"1314\" id=\"div_block_quiz_test_129\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"129\" style=\"background: #fff\">
-<input name=\"Quiz[129][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d3d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1314\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 130: Động mạch nào sau đây là nhánh bên của động mạch cánh
                 tay?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7573,10 +7443,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"130\" data-question-number=\"1315\" id=\"div_block_quiz_test_130\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"130\" style=\"background: #fff\">
-<input name=\"Quiz[130][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d3e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1315\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 131: Khi phẫu tích vùng khuỷu trước nếu tìm được thần kinh
                 giữa, chúng ta có thể tìm thấy động mạch cánh tay ở?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7635,10 +7504,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"131\" data-question-number=\"1316\" id=\"div_block_quiz_test_131\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"131\" style=\"background: #fff\">
-<input name=\"Quiz[131][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d3f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1316\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 132: Động mạch nào sau đây có thể bị tổn thương trong
                 trường hợp gãy thân xương cánh tay?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7697,10 +7565,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"132\" data-question-number=\"1317\" id=\"div_block_quiz_test_132\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"132\" style=\"background: #fff\">
-<input name=\"Quiz[132][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d40\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1317\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 133: Ở vòng nối quanh khuỷu, động mạch bên giữa nối
                 với?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7752,10 +7619,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"133\" data-question-number=\"1318\" id=\"div_block_quiz_test_133\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"133\" style=\"background: #fff\">
-<input name=\"Quiz[133][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d41\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1318\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 134: Ở vòng nối quanh khuỷu, động mạch bên quay nối
                 với?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7807,10 +7673,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"134\" data-question-number=\"1319\" id=\"div_block_quiz_test_134\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"134\" style=\"background: #fff\">
-<input name=\"Quiz[134][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d42\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1319\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 135: Ở vòng nối quanh khuỷu, động mạch bên trụ dưới nối
                 với?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7862,10 +7727,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"135\" data-question-number=\"1320\" id=\"div_block_quiz_test_135\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"135\" style=\"background: #fff\">
-<input name=\"Quiz[135][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d43\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1320\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 136: Động mạch nào sau đây không tham gia vào vòng nối
                 quanh mỏm trên lồi cầu ngoài xương cánh tay?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7917,10 +7781,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"136\" data-question-number=\"1321\" id=\"div_block_quiz_test_136\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"136\" style=\"background: #fff\">
-<input name=\"Quiz[136][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d44\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1321\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 137: Động mạch nào sau đây không tham gia vào vòng nối
                 quanh ngực?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -7979,11 +7842,10 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"137\" data-question-number=\"1322\" id=\"div_block_quiz_test_137\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"137\" style=\"background: #fff\">
-<input name=\"Quiz[137][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d45\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1322\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 138: Vị trí nào sau đây trên động mạch nách được khuyên
                 không nên thắt để cầm máu khi phẫu thuật vì có thể gây thiếu máu
                 bên dưới chỗ thắt?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8039,10 +7901,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"138\" data-question-number=\"1323\" id=\"div_block_quiz_test_138\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"138\" style=\"background: #fff\">
-<input name=\"Quiz[138][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d46\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1323\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 139: Động mạch cánh tay sâu có các đặc điểm sau đây, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8100,10 +7961,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"139\" data-question-number=\"1324\" id=\"div_block_quiz_test_139\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"139\" style=\"background: #fff\">
-<input name=\"Quiz[139][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d47\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1324\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 140: Động mạch bên trụ trên là nhánh của động mạch nào sau
                 đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8153,10 +8013,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"140\" data-question-number=\"1325\" id=\"div_block_quiz_test_140\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"140\" style=\"background: #fff\">
-<input name=\"Quiz[140][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d48\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1325\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 141: Động mạch trụ có các đặc điểm sau đây, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8213,9 +8072,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"141\" data-question-number=\"1326\" id=\"div_block_quiz_test_141\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"141\" style=\"background: #fff\">
-<input name=\"Quiz[141][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d49\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1326\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 142: Cung động mạch gan tay nông được tạo bởi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8267,9 +8125,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"142\" data-question-number=\"1327\" id=\"div_block_quiz_test_142\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"142\" style=\"background: #fff\">
-<input name=\"Quiz[142][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d4a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1327\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 143: Cung động mạch gan tay sâu được tạo bởi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8321,10 +8178,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"143\" data-question-number=\"1328\" id=\"div_block_quiz_test_143\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"143\" style=\"background: #fff\">
-<input name=\"Quiz[143][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d4b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1328\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 144: Động mạch quay ngón trỏ xuất phát từ bộ phận nào sau
                 đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8374,10 +8230,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"144\" data-question-number=\"1329\" id=\"div_block_quiz_test_144\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"144\" style=\"background: #fff\">
-<input name=\"Quiz[144][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d4c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1329\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 145: Tĩnh mạch nào sau đây được xếp vào nhóm tĩnh mạch nông
                 của chi trên?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8425,10 +8280,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"145\" data-question-number=\"1330\" id=\"div_block_quiz_test_145\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"145\" style=\"background: #fff\">
-<input name=\"Quiz[145][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d4d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1330\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 146: Ở bàn tay, động mạch ngón cái chính là nhánh
                 của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8480,10 +8334,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"146\" data-question-number=\"1331\" id=\"div_block_quiz_test_146\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"146\" style=\"background: #fff\">
-<input name=\"Quiz[146][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d4e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1331\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 147: Nói về động mạch quay ở vùng bàn tay, điều nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8541,10 +8394,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"147\" data-question-number=\"1332\" id=\"div_block_quiz_test_147\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"147\" style=\"background: #fff\">
-<input name=\"Quiz[147][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d4f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1332\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 148: Động mạch nào sau đây có hai tĩnh mạch cùng tên đi
                 cùng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8594,10 +8446,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"148\" data-question-number=\"1333\" id=\"div_block_quiz_test_148\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"148\" style=\"background: #fff\">
-<input name=\"Quiz[148][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d50\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1333\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 149: Động mạch nào sau đây là động mạch chính hình thành
                 cung động mạch gan tay nông?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8647,10 +8498,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"149\" data-question-number=\"1334\" id=\"div_block_quiz_test_149\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"149\" style=\"background: #fff\">
-<input name=\"Quiz[149][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d51\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1334\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 150: Động mạch mông trên và động mạch mông dưới là xuất
                 phát từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8700,10 +8550,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"150\" data-question-number=\"1335\" id=\"div_block_quiz_test_150\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"150\" style=\"background: #fff\">
-<input name=\"Quiz[150][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d52\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1335\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 151: Động mạch nào sau đây không phải là nhánh của động
                 mạch đùi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8761,10 +8610,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"151\" data-question-number=\"1336\" id=\"div_block_quiz_test_151\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"151\" style=\"background: #fff\">
-<input name=\"Quiz[151][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d53\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1336\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 152: Động mạch nào sau đây là nhánh của động mạch đùi
                 sâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8816,9 +8664,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"152\" data-question-number=\"1337\" id=\"div_block_quiz_test_152\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"152\" style=\"background: #fff\">
-<input name=\"Quiz[152][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d54\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1337\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 153: Động mạch bịt là nhánh của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8868,9 +8715,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"153\" data-question-number=\"1338\" id=\"div_block_quiz_test_153\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"153\" style=\"background: #fff\">
-<input name=\"Quiz[153][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d55\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1338\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 154: Nhánh đầu tiên của động mạch đùi là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8922,10 +8768,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"154\" data-question-number=\"1339\" id=\"div_block_quiz_test_154\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"154\" style=\"background: #fff\">
-<input name=\"Quiz[154][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d56\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1339\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 155: Động mạch đùi cho các nhánh sau đây, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -8983,9 +8828,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"155\" data-question-number=\"1340\" id=\"div_block_quiz_test_155\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"155\" style=\"background: #fff\">
-<input name=\"Quiz[155][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d57\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1340\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 156: Các cơ vùng đùi sau được cấp máu bởi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9037,10 +8881,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"156\" data-question-number=\"1341\" id=\"div_block_quiz_test_156\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"156\" style=\"background: #fff\">
-<input name=\"Quiz[156][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d58\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1341\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 157: Động mạch nào sau đây là nhánh cuối cùng của động mạch
                 đùi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9092,9 +8935,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"157\" data-question-number=\"1342\" id=\"div_block_quiz_test_157\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"157\" style=\"background: #fff\">
-<input name=\"Quiz[157][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d59\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1342\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 158: Tĩnh mạch đùi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9154,9 +8996,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"158\" data-question-number=\"1343\" id=\"div_block_quiz_test_158\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"158\" style=\"background: #fff\">
-<input name=\"Quiz[158][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d5a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1343\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 159: Tĩnh mạch hiển bé đổ vào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9206,10 +9047,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"159\" data-question-number=\"1344\" id=\"div_block_quiz_test_159\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"159\" style=\"background: #fff\">
-<input name=\"Quiz[159][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d5b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1344\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 160: Động mạch nào sau đây vòng quanh phía trước cổ xương
                 đùi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9261,10 +9101,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"160\" data-question-number=\"1345\" id=\"div_block_quiz_test_160\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"160\" style=\"background: #fff\">
-<input name=\"Quiz[160][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d5c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1345\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 161: Động mạch nào sau đây vòng quanh phía sau cổ xương
                 đùi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9314,10 +9153,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"161\" data-question-number=\"1346\" id=\"div_block_quiz_test_161\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"161\" style=\"background: #fff\">
-<input name=\"Quiz[161][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d5d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1346\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 162: Động mạch nào sau đây là nhánh của động mạch
                 đùi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9367,10 +9205,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"162\" data-question-number=\"1347\" id=\"div_block_quiz_test_162\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"162\" style=\"background: #fff\">
-<input name=\"Quiz[162][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d5e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1347\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 163: Động mạch chày sau có các đặc điểm sau đây, ngoại
                 trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9428,9 +9265,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"163\" data-question-number=\"1348\" id=\"div_block_quiz_test_163\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"163\" style=\"background: #fff\">
-<input name=\"Quiz[163][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d5f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1348\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 164: Tĩnh mạch hiển lớn bắt đầu từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9480,9 +9316,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"164\" data-question-number=\"1349\" id=\"div_block_quiz_test_164\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"164\" style=\"background: #fff\">
-<input name=\"Quiz[164][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d60\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1349\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 165: Động mạch cấp máu chủ yếu cho vùng đùi sau là?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9532,10 +9367,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"165\" data-question-number=\"1350\" id=\"div_block_quiz_test_165\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"165\" style=\"background: #fff\">
-<input name=\"Quiz[165][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d61\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1350\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 166: Động mạch mông trên nối với động mạch đùi sâu qua
                 nhánh động mạch nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9587,10 +9421,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"166\" data-question-number=\"1351\" id=\"div_block_quiz_test_166\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"166\" style=\"background: #fff\">
-<input name=\"Quiz[166][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d62\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1351\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 167: Động mạch mông trên nối với động mạch chậu ngoài qua
                 nhánh?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9642,10 +9475,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"167\" data-question-number=\"1352\" id=\"div_block_quiz_test_167\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"167\" style=\"background: #fff\">
-<input name=\"Quiz[167][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d63\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1352\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 168: Bệnh nhân được chẩn đoán chèn ép khoang sau cẳng chân,
                 dấu hiệu nào sau đây có thể gặp ở bệnh nhân này?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9704,10 +9536,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"168\" data-question-number=\"1353\" id=\"div_block_quiz_test_168\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"168\" style=\"background: #fff\">
-<input name=\"Quiz[168][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d64\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1353\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 169: Các động mạch cấp máu cho khớp gối xuất phát từ động
                 mạch nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9757,9 +9588,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"169\" data-question-number=\"1354\" id=\"div_block_quiz_test_169\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"169\" style=\"background: #fff\">
-<input name=\"Quiz[169][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d65\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1354\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 170: Đoạn ngang của động mạch gan chân ngoài đi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9811,10 +9641,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"170\" data-question-number=\"1355\" id=\"div_block_quiz_test_170\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"170\" style=\"background: #fff\">
-<input name=\"Quiz[170][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d66\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1355\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 171: Mô tả về động mạch chày sau, câu nào sau đây
                 đúng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9877,10 +9706,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"171\" data-question-number=\"1356\" id=\"div_block_quiz_test_171\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"171\" style=\"background: #fff\">
-<input name=\"Quiz[171][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d67\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1356\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 172: Mô tả động mạch vùng cẳng chân, câu nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9940,10 +9768,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"172\" data-question-number=\"1357\" id=\"div_block_quiz_test_172\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"172\" style=\"background: #fff\">
-<input name=\"Quiz[172][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d68\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1357\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 173: Khi mô tả động mạch chày sau, câu nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -9999,9 +9826,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"173\" data-question-number=\"1358\" id=\"div_block_quiz_test_173\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"173\" style=\"background: #fff\">
-<input name=\"Quiz[173][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d69\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1358\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 174: Động mạch mũ mác là nhánh của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10051,10 +9877,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"174\" data-question-number=\"1359\" id=\"div_block_quiz_test_174\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"174\" style=\"background: #fff\">
-<input name=\"Quiz[174][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d6a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1359\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 175: Khi tắc tĩnh mạch khoeo, hiện tượng ứ máu sẽ thấy rõ
                 ở?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10098,9 +9923,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"175\" data-question-number=\"1360\" id=\"div_block_quiz_test_175\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"175\" style=\"background: #fff\">
-<input name=\"Quiz[175][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d6b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1360\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 176: Động mạch gối giữa là nhánh bên của?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10152,10 +9976,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"176\" data-question-number=\"1361\" id=\"div_block_quiz_test_176\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"176\" style=\"background: #fff\">
-<input name=\"Quiz[176][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d6c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1361\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 177: Động mạch nào sau đây không góp phần tạo nên mạng mạch
                 khớp gối?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10207,10 +10030,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"177\" data-question-number=\"1362\" id=\"div_block_quiz_test_177\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"177\" style=\"background: #fff\">
-<input name=\"Quiz[177][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d6d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1362\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 178: Trong các động mạch tạo nên mạng mạch khớp gối, động
                 mạch nào xuất phát từ động mạch đùi sâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10262,10 +10084,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"178\" data-question-number=\"1363\" id=\"div_block_quiz_test_178\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"178\" style=\"background: #fff\">
-<input name=\"Quiz[178][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d6e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1363\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 179: Tĩnh mạch nào sau đây đổ trực tiếp vào tĩnh mạch
                 khoeo?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10315,10 +10136,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"179\" data-question-number=\"1364\" id=\"div_block_quiz_test_179\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"179\" style=\"background: #fff\">
-<input name=\"Quiz[179][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d6f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1364\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 180: Động mạch nào sau đây không phải là nhánh của động
                 mạch khoeo?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10370,10 +10190,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"180\" data-question-number=\"1365\" id=\"div_block_quiz_test_180\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"180\" style=\"background: #fff\">
-<input name=\"Quiz[180][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d70\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1365\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 181: Mô tả động mạch gan chân trong, câu nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10431,10 +10250,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"181\" data-question-number=\"1366\" id=\"div_block_quiz_test_181\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"181\" style=\"background: #fff\">
-<input name=\"Quiz[181][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2d71\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1366\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 182: Động mạch nào sau đây có hai tĩnh mạch cùng tên đi
                 kèm?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10484,10 +10302,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"182\" data-question-number=\"1367\" id=\"div_block_quiz_test_182\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"182\" style=\"background: #fff\">
-<input name=\"Quiz[182][id]\" type=\"hidden\" value=\"6721a5d1e275cbe0768e2cbb\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1367\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 183: Động mạch thanh quản trên đi xuyên qua màng giáp móng
                 cùng với?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10539,14 +10356,14 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"183\" data-question-number=\"1368\" id=\"div_block_quiz_test_183\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"183\" style=\"background: #fff\">
-<input name=\"Quiz[183][id]\" type=\"hidden\" value=\"672118bae275cb04208e2cc5\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1368\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 184: Dùng hình vẽ trên để trả lời ba câu sau bằng cách điền
                 vào chỗ trống - Chi tiết số 3 là:
                 <label class=\"error_fill-word\" style=\"display: inline; margin: 0 8px\"><span class=\"answer_fill-word\" style=\"display: inline\"></span></label><label class=\"right-answer\">[rãnh gian nhĩ]</label></strong></span></div></div>
 <br/>
 <p>
 <img src=\"";
-        // line 10507
+        // line 10324
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(static_url("unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-4.jpg"), "html", null, true);
         yield "\" style=\"width: 100%\"/>
 </p>
@@ -10596,14 +10413,14 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"184\" data-question-number=\"1369\" id=\"div_block_quiz_test_184\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"184\" style=\"background: #fff\">
-<input name=\"Quiz[184][id]\" type=\"hidden\" value=\"67211871e275cb1f208e2cc4\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1369\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 185: Dùng hình vẽ trên để trả lời ba câu sau bằng cách điền
                 vào chỗ trống - Chi tiết số 2 là:
                 <label class=\"error_fill-word\" style=\"display: inline; margin: 0 8px\"><span class=\"answer_fill-word\" style=\"display: inline\"></span></label><label class=\"right-answer\">[rãnh vành]</label></strong></span></div></div>
 <br/>
 <p>
 <img src=\"";
-        // line 10561
+        // line 10378
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(static_url("unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-3.jpg"), "html", null, true);
         yield "\" style=\"width: 100%\"/>
 </p>
@@ -10653,14 +10470,14 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"185\" data-question-number=\"1370\" id=\"div_block_quiz_test_185\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"185\" style=\"background: #fff\">
-<input name=\"Quiz[185][id]\" type=\"hidden\" value=\"6721181de275cb09208e2cc7\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1370\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 186: Dùng hình vẽ trên để trả lời ba câu sau bằng cách điền
                 vào chỗ trống - Chi tiết số 1 là:
                 <label class=\"error_fill-word\" style=\"display: inline; margin: 0 8px\"><span class=\"answer_fill-word\" style=\"display: inline\"></span></label><label class=\"right-answer\">[rãnh gian thất sau]</label></strong></span></div></div>
 <br/>
 <p>
 <img src=\"";
-        // line 10615
+        // line 10432
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(static_url("unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-2.jpg"), "html", null, true);
         yield "\" style=\"width: 100%\"/>
 </p>
@@ -10710,9 +10527,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"186\" data-question-number=\"1371\" id=\"div_block_quiz_test_186\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"186\" style=\"background: #fff\">
-<input name=\"Quiz[186][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cc1\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1371\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 187: Nhánh đầu tiên của cung động mạch chủ là</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10764,9 +10580,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"187\" data-question-number=\"1372\" id=\"div_block_quiz_test_187\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"187\" style=\"background: #fff\">
-<input name=\"Quiz[187][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cc4\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1372\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 188: Động mạch gian sườn sau xuất phát từ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10833,10 +10648,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"188\" data-question-number=\"1373\" id=\"div_block_quiz_test_188\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"188\" style=\"background: #fff\">
-<input name=\"Quiz[188][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cc6\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1373\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 189: Cung động mạch chủ cho thân động mạch cánh tay đầu
                 và?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -10972,10 +10786,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"189\" data-question-number=\"1374\" id=\"div_block_quiz_test_189\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"189\" style=\"background: #fff\">
-<input name=\"Quiz[189][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cc7\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1374\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 190: Ở vị trí ngang đốt sống cổ 3, trong bao cảnh có chứa
                 các thành phần nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -11123,10 +10936,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"190\" data-question-number=\"1375\" id=\"div_block_quiz_test_190\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"190\" style=\"background: #fff\">
-<input name=\"Quiz[190][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cc8\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1375\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 191: Động mạch cảnh chung chia thành động mạch cảnh trong
                 và động mạch cảnh ngoài ở ngang mức</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -11264,10 +11076,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"191\" data-question-number=\"1376\" id=\"div_block_quiz_test_191\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"191\" style=\"background: #fff\">
-<input name=\"Quiz[191][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cc9\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1376\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 192: Vị trí xuất phát của động mạch cảnh trong và động mạch
                 cảnh ngoài thường ở ngang mức với bộ phận nào?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -11405,10 +11216,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"192\" data-question-number=\"1377\" id=\"div_block_quiz_test_192\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"192\" style=\"background: #fff\">
-<input name=\"Quiz[192][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2ccb\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1377\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 193: Tiêu chuẩn chắc chắn nhất để phân biệt động mạch cảnh
                 ngoài và động mạch cảnh trong ở vùng cổ là gì?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -11544,10 +11354,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"193\" data-question-number=\"1378\" id=\"div_block_quiz_test_193\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"193\" style=\"background: #fff\">
-<input name=\"Quiz[193][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2ccc\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1378\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 194: Động mạch cảnh chung thường chia đôi thành động mạch
                 cảnh trong và động mạch cảnh ngoài ở?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -11690,10 +11499,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"194\" data-question-number=\"1379\" id=\"div_block_quiz_test_194\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"194\" style=\"background: #fff\">
-<input name=\"Quiz[194][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2ccd\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1379\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 195: Động mạch nào sau đây không phải là nhánh của động
                 mạch cảnh trong?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -11846,10 +11654,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"195\" data-question-number=\"1380\" id=\"div_block_quiz_test_195\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"195\" style=\"background: #fff\">
-<input name=\"Quiz[195][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cce\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1380\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 196: Các động mạch sau đây là nhánh của động mạch cảnh
                 ngoài, ngoại trừ?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -11990,9 +11797,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"196\" data-question-number=\"1381\" id=\"div_block_quiz_test_196\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"196\" style=\"background: #fff\">
-<input name=\"Quiz[196][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2ccf\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1381\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 197: Về động mạch cảnh ngoài, câu nào sau đây sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12137,9 +11943,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"197\" data-question-number=\"1382\" id=\"div_block_quiz_test_197\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"197\" style=\"background: #fff\">
-<input name=\"Quiz[197][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cd0\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1382\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 198: Động mạch cảnh ngoài có đặc điểm gì?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12286,10 +12091,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"198\" data-question-number=\"1383\" id=\"div_block_quiz_test_198\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"198\" style=\"background: #fff\">
-<input name=\"Quiz[198][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cd1\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1383\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 199: Liên quan giữa động mạch cảnh ngoài và cơ hai thân,
                 câu nào sau đây đúng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12425,9 +12229,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"199\" data-question-number=\"1384\" id=\"div_block_quiz_test_199\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"199\" style=\"background: #fff\">
-<input name=\"Quiz[199][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cd2\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1384\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 200: Nhánh bên đầu tiên của động mạch cảnh ngoài là</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12559,11 +12362,10 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"200\" data-question-number=\"1385\" id=\"div_block_quiz_test_200\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"200\" style=\"background: #fff\">
-<input name=\"Quiz[200][id]\" type=\"hidden\" value=\"672114f6e275cb18208e2cd3\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1385\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 201: Khi cần thắt động mạch giáp trên trong phẫu thuật
                 tuyến giáp, cần chú ý nhánh ngoài thần kinh thanh quản trên
                 vì</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12709,9 +12511,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"201\" data-question-number=\"1386\" id=\"div_block_quiz_test_201\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"201\" style=\"background: #fff\">
-<input name=\"Quiz[201][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2ced\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1386\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 202: Tim và màng ngoài tim nằm trong</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12763,10 +12564,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"202\" data-question-number=\"1387\" id=\"div_block_quiz_test_202\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"202\" style=\"background: #fff\">
-<input name=\"Quiz[202][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cee\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1387\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 203: Về hình thể ngoài của tim, câu nào sau đây
                 đúng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12825,10 +12625,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"203\" data-question-number=\"1388\" id=\"div_block_quiz_test_203\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"203\" style=\"background: #fff\">
-<input name=\"Quiz[203][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cef\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1388\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 204: Về động mạch và tĩnh mạch vành, câu nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12886,10 +12685,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"204\" data-question-number=\"1389\" id=\"div_block_quiz_test_204\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"204\" style=\"background: #fff\">
-<input name=\"Quiz[204][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf0\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1389\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 205: Về hình thể trong của tim, câu nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12941,9 +12739,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"205\" data-question-number=\"1390\" id=\"div_block_quiz_test_205\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"205\" style=\"background: #fff\">
-<input name=\"Quiz[205][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf1\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1390\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 206: Về phía sau, tâm nhĩ trái liên quan với</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -12993,9 +12790,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"206\" data-question-number=\"1391\" id=\"div_block_quiz_test_206\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"206\" style=\"background: #fff\">
-<input name=\"Quiz[206][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf2\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1391\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 207: Các động mạch vành</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13054,10 +12850,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"207\" data-question-number=\"1392\" id=\"div_block_quiz_test_207\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"207\" style=\"background: #fff\">
-<input name=\"Quiz[207][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf3\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1392\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 208: Trong hệ thống động mạch vành, nhánh bờ trái xuất phát
                 từ</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13107,10 +12902,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"208\" data-question-number=\"1393\" id=\"div_block_quiz_test_208\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"208\" style=\"background: #fff\">
-<input name=\"Quiz[208][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf4\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1393\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 209: Trong rãnh gian thất trước có động mạch gian thất
                 trước và</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13169,9 +12963,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"209\" data-question-number=\"1394\" id=\"div_block_quiz_test_209\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"209\" style=\"background: #fff\">
-<input name=\"Quiz[209][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf5\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1394\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 210: Nút xoang nhĩ</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13229,10 +13022,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"210\" data-question-number=\"1395\" id=\"div_block_quiz_test_210\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"210\" style=\"background: #fff\">
-<input name=\"Quiz[210][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf6\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1395\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 211: Mô tả về các buồng của tim, chi tiết nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13284,9 +13076,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"211\" data-question-number=\"1396\" id=\"div_block_quiz_test_211\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"211\" style=\"background: #fff\">
-<input name=\"Quiz[211][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf7\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1396\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 212: Rãnh tận cùng.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13346,9 +13137,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"212\" data-question-number=\"1397\" id=\"div_block_quiz_test_212\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"212\" style=\"background: #fff\">
-<input name=\"Quiz[212][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf8\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1397\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 213: Hố bầu dục.</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13400,10 +13190,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"213\" data-question-number=\"1398\" id=\"div_block_quiz_test_213\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"213\" style=\"background: #fff\">
-<input name=\"Quiz[213][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cf9\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1398\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 214: Hiện tượng nào sau đây xảy ra vào thì tâm
                 trương?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13459,9 +13248,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"214\" data-question-number=\"1399\" id=\"div_block_quiz_test_214\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"214\" style=\"background: #fff\">
-<input name=\"Quiz[214][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cfa\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1399\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 215: Rãnh gian nhĩ nằm ở đâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13505,10 +13293,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"215\" data-question-number=\"1400\" id=\"div_block_quiz_test_215\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"215\" style=\"background: #fff\">
-<input name=\"Quiz[215][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cfb\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1400\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 216: Mô tả về mặt ức sườn của tim, điểm nào sau đây
                 sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13566,10 +13353,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"216\" data-question-number=\"1401\" id=\"div_block_quiz_test_216\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"216\" style=\"background: #fff\">
-<input name=\"Quiz[216][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cfc\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1401\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 217: Mỏm tim thường nằm tương ứng với mức nào sau
                 đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13629,10 +13415,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"217\" data-question-number=\"1402\" id=\"div_block_quiz_test_217\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"217\" style=\"background: #fff\">
-<input name=\"Quiz[217][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cfd\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1402\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 218: Nơi gặp nhau giữa rãnh gian thất trước và rãnh gian
                 thất sau được gọi là gì?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13688,9 +13473,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"218\" data-question-number=\"1403\" id=\"div_block_quiz_test_218\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"218\" style=\"background: #fff\">
-<input name=\"Quiz[218][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cfe\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1403\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 219: Rãnh gian thất sau của tim nằm ở đâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13740,10 +13524,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"219\" data-question-number=\"1404\" id=\"div_block_quiz_test_219\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"219\" style=\"background: #fff\">
-<input name=\"Quiz[219][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2cff\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1404\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 220: Mô tả về hình thể ngoài và liên quan của tim, câu nào
                 sau đây sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13801,10 +13584,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"220\" data-question-number=\"1405\" id=\"div_block_quiz_test_220\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"220\" style=\"background: #fff\">
-<input name=\"Quiz[220][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d00\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1405\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 221: Chi tiết giải phẫu nào sau đây chạy từ mặt trước đến
                 mặt hoành của tim?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13859,10 +13641,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"221\" data-question-number=\"1406\" id=\"div_block_quiz_test_221\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"221\" style=\"background: #fff\">
-<input name=\"Quiz[221][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d01\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1406\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 222: Thành phần nào sau đây đi cùng với động mạch gian thất
                 sau ở rãnh gian thất sau?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13914,10 +13695,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"222\" data-question-number=\"1407\" id=\"div_block_quiz_test_222\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"222\" style=\"background: #fff\">
-<input name=\"Quiz[222][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d02\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1407\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 223: Chi tiết giải phẫu nào sau đây không thấy ở tâm nhĩ
                 phải?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -13965,9 +13745,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"223\" data-question-number=\"1408\" id=\"div_block_quiz_test_223\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"223\" style=\"background: #fff\">
-<input name=\"Quiz[223][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d03\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1408\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 224: Mô tả về động mạch vành, câu nào sau đây sai?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14019,10 +13798,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"224\" data-question-number=\"1409\" id=\"div_block_quiz_test_224\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"224\" style=\"background: #fff\">
-<input name=\"Quiz[224][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d04\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1409\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 225: Mô tả hình thể ngoài của tim, câu nào sau đây
                 đúng?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14084,10 +13862,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"225\" data-question-number=\"1410\" id=\"div_block_quiz_test_225\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"225\" style=\"background: #fff\">
-<input name=\"Quiz[225][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d05\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1410\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 226: Chi tiết nào sau đây được nhìn thấy ở mặt hoành lẫn
                 mặt phổi của tim?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14137,10 +13914,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"226\" data-question-number=\"1411\" id=\"div_block_quiz_test_226\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"226\" style=\"background: #fff\">
-<input name=\"Quiz[226][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d06\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1411\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 227: Yếu tố nào sau đây không ảnh hưởng đến kích thước của
                 tim?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14184,11 +13960,10 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"227\" data-question-number=\"1412\" id=\"div_block_quiz_test_227\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"227\" style=\"background: #fff\">
-<input name=\"Quiz[227][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d07\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1412\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 228: Khi khám tim cho bệnh nhân, bác sĩ nghe âm thổi bất
                 thường ở mỏm mũi kiếm xương ức. Âm thổi này có khả năng xuất
                 phát từ đâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14246,11 +14021,10 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"228\" data-question-number=\"1413\" id=\"div_block_quiz_test_228\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"228\" style=\"background: #fff\">
-<input name=\"Quiz[228][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d08\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1413\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 229: Khi khám tim cho bệnh nhân, bác sĩ nghe âm thổi bất
                 thường ở khoảng gian sườn 2 cạnh bờ trái xương ức. Âm thổi này
                 có khả năng xuất phát từ đâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14308,10 +14082,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"229\" data-question-number=\"1414\" id=\"div_block_quiz_test_229\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"229\" style=\"background: #fff\">
-<input name=\"Quiz[229][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d09\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1414\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 230: Vị trí bình thường của lỗ động mạch vành là ở
                 đâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14373,10 +14146,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"230\" data-question-number=\"1415\" id=\"div_block_quiz_test_230\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"230\" style=\"background: #fff\">
-<input name=\"Quiz[230][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d0a\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1415\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 231: Xoang động mạch chủ nào sau đây gọi là xoang không
                 vành?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14424,10 +14196,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"231\" data-question-number=\"1416\" id=\"div_block_quiz_test_231\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"231\" style=\"background: #fff\">
-<input name=\"Quiz[231][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d0b\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1416\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 232: Về mặt lâm sàng, bờ phải (hay bờ sắc) của tim là ranh
                 giới giữa?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14479,10 +14250,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"232\" data-question-number=\"1417\" id=\"div_block_quiz_test_232\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"232\" style=\"background: #fff\">
-<input name=\"Quiz[232][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d0c\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1417\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 233: Thông thường, động mạch nào sau đây bị tắc sẽ gây
                 thiếu máu cơ tim ở mặt hoành?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14538,10 +14308,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"233\" data-question-number=\"1418\" id=\"div_block_quiz_test_233\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"233\" style=\"background: #fff\">
-<input name=\"Quiz[233][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d0d\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1418\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 234: Đặc điểm nào sau đây đúng với tĩnh mạch tim
                 giữa?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14596,10 +14365,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"234\" data-question-number=\"1419\" id=\"div_block_quiz_test_234\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"234\" style=\"background: #fff\">
-<input name=\"Quiz[234][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d0e\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1419\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 235: Đặc điểm nào sau đây đúng với lá thành ngoại tâm mạc
                 thanh mạc?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14657,10 +14425,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"235\" data-question-number=\"1420\" id=\"div_block_quiz_test_235\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"235\" style=\"background: #fff\">
-<input name=\"Quiz[235][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d0f\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1420\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 236: Trên lâm sàng, bờ trái của tim chính là ranh giới
                 giữa?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14712,10 +14479,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"236\" data-question-number=\"1421\" id=\"div_block_quiz_test_236\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"236\" style=\"background: #fff\">
-<input name=\"Quiz[236][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d10\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1421\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 237: Động mạch nào sau đây bị tắc sẽ gây thiếu máu vùng mỏm
                 tim?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14771,9 +14537,8 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"237\" data-question-number=\"1422\" id=\"div_block_quiz_test_237\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"237\" style=\"background: #fff\">
-<input name=\"Quiz[237][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d11\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1422\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 238: Động mạch gian thất sau đi cùng với?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14825,10 +14590,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"238\" data-question-number=\"1423\" id=\"div_block_quiz_test_238\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"238\" style=\"background: #fff\">
-<input name=\"Quiz[238][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d12\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1423\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 239: Nút nhĩ thất sẽ bị thiếu máu nuôi trong trường hợp tắc
                 động mạch nào sau đây?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14884,10 +14648,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"239\" data-question-number=\"1424\" id=\"div_block_quiz_test_239\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"239\" style=\"background: #fff\">
-<input name=\"Quiz[239][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d13\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1424\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 240: Trong trường hợp ưu thế trái động mạch vành, mặt hoành
                 thất trái được cấp máu bởi?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -14944,10 +14707,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"240\" data-question-number=\"1425\" id=\"div_block_quiz_test_240\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"240\" style=\"background: #fff\">
-<input name=\"Quiz[240][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d14\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1425\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 241: Điều nào sau đây đúng đối với mặt dưới của
                 tim?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -15008,10 +14770,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"241\" data-question-number=\"1426\" id=\"div_block_quiz_test_241\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"241\" style=\"background: #fff\">
-<input name=\"Quiz[241][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d15\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1426\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 242: Trong trường hợp ưu thế phải động mạch vành, các nhánh
                 sau thất trái xuất phát từ đâu?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -15059,10 +14820,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"242\" data-question-number=\"1427\" id=\"div_block_quiz_test_242\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"242\" style=\"background: #fff\">
-<input name=\"Quiz[242][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d16\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1427\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 243: Khi khám tim, bác sĩ sờ thấy mỏm tim đập ở vị trí nào
                 sau đây thì cho là bình thường?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -15114,10 +14874,9 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
 <div class=\"clearfix\"></div>
 <div class=\"block-quiz-test\" data-page=\"243\" data-question-number=\"1428\" id=\"div_block_quiz_test_243\">
 <div class=\"w3-padding w3-light-grey block-question\" data-page=\"243\" style=\"background: #fff\">
-<input name=\"Quiz[243][id]\" type=\"hidden\" value=\"67210954e275cb0f5f8e2d17\"/>
+
 <div class=\"w3-large\"><div class=\"x-wrapper\" style=\"display: flex;\"><div><button class=\"quiz-button btn btn-primary\" data-question=\"1428\"><i class=\"fa fa-check-circle\"></i></button></div><div><span class=\"quiz-title\"><strong>Câu 244: Nhánh nào sau đây được xem là nhánh chính của động
                 mạch vành phải?</strong></span></div></div>
-<br/>
 </div>
 <div class=\"clearfix\"></div>
 <div class=\"radio\">
@@ -15174,7 +14933,7 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
      */
     public function getTemplateName(): string
     {
-        return "quizz/contents_2/timmach.html";
+        return "quizz/contents_3/timmach.html";
     }
 
     /**
@@ -15190,11 +14949,11 @@ class __TwigTemplate_4dc32754d740a3a24f531edc4ef13ccb extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  10664 => 10615,  10607 => 10561,  10550 => 10507,  42 => 1,);
+        return array (  10481 => 10432,  10424 => 10378,  10367 => 10324,  42 => 1,);
     }
 
     public function getSourceContext(): Source
     {
-        return new Source("", "quizz/contents_2/timmach.html", "D:\\Projects\\minic2\\src\\app\\Views\\quizz\\contents_2\\timmach.html");
+        return new Source("", "quizz/contents_3/timmach.html", "D:\\Projects\\minic2\\src\\app\\Views\\quizz\\contents_3\\timmach.html");
     }
 }
