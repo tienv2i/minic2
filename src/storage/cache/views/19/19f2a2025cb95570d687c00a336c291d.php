@@ -57,7 +57,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[0][id]\"
             value=\"6721a5d1e275cbe0768e2cbc\"
           />
-          <input type=\"hidden\" name=\"Quiz[0][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -140,7 +140,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[1][id]\"
             value=\"6721a5d1e275cbe0768e2cbd\"
           />
-          <input type=\"hidden\" name=\"Quiz[1][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -231,7 +231,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[2][id]\"
             value=\"6721a5d1e275cbe0768e2cbe\"
           />
-          <input type=\"hidden\" name=\"Quiz[2][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -316,7 +316,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[3][id]\"
             value=\"6721a5d1e275cbe0768e2cbf\"
           />
-          <input type=\"hidden\" name=\"Quiz[3][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -404,7 +404,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[4][id]\"
             value=\"6721a5d1e275cbe0768e2cc0\"
           />
-          <input type=\"hidden\" name=\"Quiz[4][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -494,7 +494,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[5][id]\"
             value=\"6721a5d1e275cbe0768e2cc1\"
           />
-          <input type=\"hidden\" name=\"Quiz[5][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -587,7 +587,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[6][id]\"
             value=\"6721a5d1e275cbe0768e2cc2\"
           />
-          <input type=\"hidden\" name=\"Quiz[6][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -668,7 +668,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[7][id]\"
             value=\"6721a5d1e275cbe0768e2cc3\"
           />
-          <input type=\"hidden\" name=\"Quiz[7][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 8: Động mạch dưới ổ mắt là nhánh của?</strong></span
@@ -744,7 +744,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[8][id]\"
             value=\"6721a5d1e275cbe0768e2cc4\"
           />
-          <input type=\"hidden\" name=\"Quiz[8][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -829,7 +829,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[9][id]\"
             value=\"6721a5d1e275cbe0768e2cc5\"
           />
-          <input type=\"hidden\" name=\"Quiz[9][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -945,7 +945,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[10][id]\"
             value=\"6721a5d1e275cbe0768e2cc6\"
           />
-          <input type=\"hidden\" name=\"Quiz[10][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 11: Động mạch ngang mặt là nhánh của?</strong></span
@@ -1033,7 +1033,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[11][id]\"
             value=\"6721a5d1e275cbe0768e2cc7\"
           />
-          <input type=\"hidden\" name=\"Quiz[11][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1116,7 +1116,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[12][id]\"
             value=\"6721a5d1e275cbe0768e2cc8\"
           />
-          <input type=\"hidden\" name=\"Quiz[12][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1198,7 +1198,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[13][id]\"
             value=\"6721a5d1e275cbe0768e2cc9\"
           />
-          <input type=\"hidden\" name=\"Quiz[13][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1283,7 +1283,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[14][id]\"
             value=\"6721a5d1e275cbe0768e2cca\"
           />
-          <input type=\"hidden\" name=\"Quiz[14][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1371,7 +1371,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[15][id]\"
             value=\"6721a5d1e275cbe0768e2ccb\"
           />
-          <input type=\"hidden\" name=\"Quiz[15][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1455,7 +1455,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[16][id]\"
             value=\"6721a5d1e275cbe0768e2ccc\"
           />
-          <input type=\"hidden\" name=\"Quiz[16][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1553,7 +1553,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[17][id]\"
             value=\"6721a5d1e275cbe0768e2ccd\"
           />
-          <input type=\"hidden\" name=\"Quiz[17][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1634,7 +1634,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[18][id]\"
             value=\"6721a5d1e275cbe0768e2cce\"
           />
-          <input type=\"hidden\" name=\"Quiz[18][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1724,7 +1724,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[19][id]\"
             value=\"6721a5d1e275cbe0768e2ccf\"
           />
-          <input type=\"hidden\" name=\"Quiz[19][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 20: Động mạch cơ cắn là nhánh của?</strong></span
@@ -1802,7 +1802,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[20][id]\"
             value=\"6721a5d1e275cbe0768e2cd0\"
           />
-          <input type=\"hidden\" name=\"Quiz[20][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1905,7 +1905,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[21][id]\"
             value=\"6721a5d1e275cbe0768e2cd1\"
           />
-          <input type=\"hidden\" name=\"Quiz[21][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -1998,7 +1998,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[22][id]\"
             value=\"6721a5d1e275cbe0768e2cd2\"
           />
-          <input type=\"hidden\" name=\"Quiz[22][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2112,7 +2112,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[23][id]\"
             value=\"6721a5d1e275cbe0768e2cd3\"
           />
-          <input type=\"hidden\" name=\"Quiz[23][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2224,7 +2224,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[24][id]\"
             value=\"6721a5d1e275cbe0768e2cd4\"
           />
-          <input type=\"hidden\" name=\"Quiz[24][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2309,7 +2309,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[25][id]\"
             value=\"6721a5d1e275cbe0768e2cd5\"
           />
-          <input type=\"hidden\" name=\"Quiz[25][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2420,7 +2420,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[26][id]\"
             value=\"6721a5d1e275cbe0768e2cd6\"
           />
-          <input type=\"hidden\" name=\"Quiz[26][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2505,7 +2505,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[27][id]\"
             value=\"6721a5d1e275cbe0768e2cd7\"
           />
-          <input type=\"hidden\" name=\"Quiz[27][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2596,7 +2596,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[28][id]\"
             value=\"6721a5d1e275cbe0768e2cd8\"
           />
-          <input type=\"hidden\" name=\"Quiz[28][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2688,7 +2688,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[29][id]\"
             value=\"6721a5d1e275cbe0768e2cd9\"
           />
-          <input type=\"hidden\" name=\"Quiz[29][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2772,7 +2772,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[30][id]\"
             value=\"6721a5d1e275cbe0768e2cda\"
           />
-          <input type=\"hidden\" name=\"Quiz[30][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2882,7 +2882,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[31][id]\"
             value=\"6721a5d1e275cbe0768e2cdb\"
           />
-          <input type=\"hidden\" name=\"Quiz[31][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -2974,7 +2974,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[32][id]\"
             value=\"6721a5d1e275cbe0768e2cdc\"
           />
-          <input type=\"hidden\" name=\"Quiz[32][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3081,7 +3081,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[33][id]\"
             value=\"6721a5d1e275cbe0768e2cdd\"
           />
-          <input type=\"hidden\" name=\"Quiz[33][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 34: Tĩnh mạch cảnh ngoài đổ vào?</strong></span
@@ -3163,7 +3163,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[34][id]\"
             value=\"6721a5d1e275cbe0768e2cde\"
           />
-          <input type=\"hidden\" name=\"Quiz[34][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3248,7 +3248,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[35][id]\"
             value=\"6721a5d1e275cbe0768e2cdf\"
           />
-          <input type=\"hidden\" name=\"Quiz[35][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3333,7 +3333,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[36][id]\"
             value=\"6721a5d1e275cbe0768e2ce0\"
           />
-          <input type=\"hidden\" name=\"Quiz[36][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3441,7 +3441,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[37][id]\"
             value=\"6721a5d1e275cbe0768e2ce1\"
           />
-          <input type=\"hidden\" name=\"Quiz[37][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3525,7 +3525,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[38][id]\"
             value=\"6721a5d1e275cbe0768e2ce2\"
           />
-          <input type=\"hidden\" name=\"Quiz[38][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 39: Tĩnh mạch mặt chung đổ về?</strong></span
@@ -3630,7 +3630,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[39][id]\"
             value=\"6721a5d1e275cbe0768e2ce3\"
           />
-          <input type=\"hidden\" name=\"Quiz[39][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3733,7 +3733,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[40][id]\"
             value=\"6721a5d1e275cbe0768e2ce4\"
           />
-          <input type=\"hidden\" name=\"Quiz[40][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3818,7 +3818,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[41][id]\"
             value=\"6721a5d1e275cbe0768e2ce5\"
           />
-          <input type=\"hidden\" name=\"Quiz[41][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3912,7 +3912,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[42][id]\"
             value=\"6721a5d1e275cbe0768e2ce6\"
           />
-          <input type=\"hidden\" name=\"Quiz[42][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -3997,7 +3997,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[43][id]\"
             value=\"6721a5d1e275cbe0768e2ce7\"
           />
-          <input type=\"hidden\" name=\"Quiz[43][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -4082,7 +4082,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[44][id]\"
             value=\"6721a5d1e275cbe0768e2ce8\"
           />
-          <input type=\"hidden\" name=\"Quiz[44][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -4180,7 +4180,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[45][id]\"
             value=\"6721a5d1e275cbe0768e2ce9\"
           />
-          <input type=\"hidden\" name=\"Quiz[45][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 46: Động mạch trên vai xuất phát từ?</strong></span
@@ -4258,7 +4258,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[46][id]\"
             value=\"6721a5d1e275cbe0768e2cea\"
           />
-          <input type=\"hidden\" name=\"Quiz[46][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -4353,7 +4353,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[47][id]\"
             value=\"6721a5d1e275cbe0768e2ceb\"
           />
-          <input type=\"hidden\" name=\"Quiz[47][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -4436,7 +4436,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[48][id]\"
             value=\"6721a5d1e275cbe0768e2cec\"
           />
-          <input type=\"hidden\" name=\"Quiz[48][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -4516,7 +4516,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[49][id]\"
             value=\"6721a5d1e275cbe0768e2ced\"
           />
-          <input type=\"hidden\" name=\"Quiz[49][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 50: Bắt chéo ngoài cơ chân bướm ngoài?</strong></span
@@ -4594,7 +4594,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[50][id]\"
             value=\"6721a5d1e275cbe0768e2cee\"
           />
-          <input type=\"hidden\" name=\"Quiz[50][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -4675,7 +4675,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[51][id]\"
             value=\"6721a5d1e275cbe0768e2cef\"
           />
-          <input type=\"hidden\" name=\"Quiz[51][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 52: Cho nhánh gò má ổ mắt?</strong></span
@@ -4753,7 +4753,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[52][id]\"
             value=\"6721a5d1e275cbe0768e2cf0\"
           />
-          <input type=\"hidden\" name=\"Quiz[52][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 53: Tận cùng bằng động mạch góc</strong></span
@@ -4831,7 +4831,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[53][id]\"
             value=\"6721a5d1e275cbe0768e2cf1\"
           />
-          <input type=\"hidden\" name=\"Quiz[53][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -4918,7 +4918,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[54][id]\"
             value=\"6721a5d1e275cbe0768e2cf2\"
           />
-          <input type=\"hidden\" name=\"Quiz[54][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5002,7 +5002,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[55][id]\"
             value=\"6721a5d1e275cbe0768e2cf3\"
           />
-          <input type=\"hidden\" name=\"Quiz[55][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5094,7 +5094,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[56][id]\"
             value=\"6721a5d1e275cbe0768e2cf4\"
           />
-          <input type=\"hidden\" name=\"Quiz[56][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 57: Tĩnh mạch bán đơn phụ đổ vào?</strong></span
@@ -5174,7 +5174,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[57][id]\"
             value=\"6721a5d1e275cbe0768e2cf5\"
           />
-          <input type=\"hidden\" name=\"Quiz[57][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5259,7 +5259,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[58][id]\"
             value=\"6721a5d1e275cbe0768e2cf6\"
           />
-          <input type=\"hidden\" name=\"Quiz[58][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 59: Tĩnh mạch đơn đổ về?</strong></span
@@ -5341,7 +5341,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[59][id]\"
             value=\"6721a5d1e275cbe0768e2cf7\"
           />
-          <input type=\"hidden\" name=\"Quiz[59][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5426,7 +5426,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[60][id]\"
             value=\"6721a5d1e275cbe0768e2cf8\"
           />
-          <input type=\"hidden\" name=\"Quiz[60][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5516,7 +5516,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[61][id]\"
             value=\"6721a5d1e275cbe0768e2cf9\"
           />
-          <input type=\"hidden\" name=\"Quiz[61][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5599,7 +5599,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[62][id]\"
             value=\"6721a5d1e275cbe0768e2cfa\"
           />
-          <input type=\"hidden\" name=\"Quiz[62][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5682,7 +5682,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[63][id]\"
             value=\"6721a5d1e275cbe0768e2cfb\"
           />
-          <input type=\"hidden\" name=\"Quiz[63][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5767,7 +5767,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[64][id]\"
             value=\"6721a5d1e275cbe0768e2cfc\"
           />
-          <input type=\"hidden\" name=\"Quiz[64][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5851,7 +5851,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[65][id]\"
             value=\"6721a5d1e275cbe0768e2cfd\"
           />
-          <input type=\"hidden\" name=\"Quiz[65][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -5935,7 +5935,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[66][id]\"
             value=\"6721a5d1e275cbe0768e2cfe\"
           />
-          <input type=\"hidden\" name=\"Quiz[66][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 67: Động mạch ruột thừa xuất phát từ?</strong></span
@@ -6017,7 +6017,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[67][id]\"
             value=\"6721a5d1e275cbe0768e2cff\"
           />
-          <input type=\"hidden\" name=\"Quiz[67][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6110,7 +6110,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[68][id]\"
             value=\"6721a5d1e275cbe0768e2d00\"
           />
-          <input type=\"hidden\" name=\"Quiz[68][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6194,7 +6194,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[69][id]\"
             value=\"6721a5d1e275cbe0768e2d01\"
           />
-          <input type=\"hidden\" name=\"Quiz[69][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6286,7 +6286,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[70][id]\"
             value=\"6721a5d1e275cbe0768e2d02\"
           />
-          <input type=\"hidden\" name=\"Quiz[70][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 71: Động mạch vị phải tách ra từ?</strong></span
@@ -6368,7 +6368,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[71][id]\"
             value=\"6721a5d1e275cbe0768e2d03\"
           />
-          <input type=\"hidden\" name=\"Quiz[71][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6460,7 +6460,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[72][id]\"
             value=\"6721a5d1e275cbe0768e2d04\"
           />
-          <input type=\"hidden\" name=\"Quiz[72][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6542,7 +6542,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[73][id]\"
             value=\"6721a5d1e275cbe0768e2d05\"
           />
-          <input type=\"hidden\" name=\"Quiz[73][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6627,7 +6627,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[74][id]\"
             value=\"6721a5d1e275cbe0768e2d06\"
           />
-          <input type=\"hidden\" name=\"Quiz[74][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6712,7 +6712,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[75][id]\"
             value=\"6721a5d1e275cbe0768e2d07\"
           />
-          <input type=\"hidden\" name=\"Quiz[75][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6797,7 +6797,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[76][id]\"
             value=\"6721a5d1e275cbe0768e2d08\"
           />
-          <input type=\"hidden\" name=\"Quiz[76][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6882,7 +6882,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[77][id]\"
             value=\"6721a5d1e275cbe0768e2d09\"
           />
-          <input type=\"hidden\" name=\"Quiz[77][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -6975,7 +6975,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[78][id]\"
             value=\"6721a5d1e275cbe0768e2d0a\"
           />
-          <input type=\"hidden\" name=\"Quiz[78][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7060,7 +7060,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[79][id]\"
             value=\"6721a5d1e275cbe0768e2d0b\"
           />
-          <input type=\"hidden\" name=\"Quiz[79][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7145,7 +7145,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[80][id]\"
             value=\"6721a5d1e275cbe0768e2d0c\"
           />
-          <input type=\"hidden\" name=\"Quiz[80][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7230,7 +7230,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[81][id]\"
             value=\"6721a5d1e275cbe0768e2d0d\"
           />
-          <input type=\"hidden\" name=\"Quiz[81][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7314,7 +7314,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[82][id]\"
             value=\"6721a5d1e275cbe0768e2d0e\"
           />
-          <input type=\"hidden\" name=\"Quiz[82][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7399,7 +7399,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[83][id]\"
             value=\"6721a5d1e275cbe0768e2d0f\"
           />
-          <input type=\"hidden\" name=\"Quiz[83][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7484,7 +7484,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[84][id]\"
             value=\"6721a5d1e275cbe0768e2d10\"
           />
-          <input type=\"hidden\" name=\"Quiz[84][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7569,7 +7569,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[85][id]\"
             value=\"6721a5d1e275cbe0768e2d11\"
           />
-          <input type=\"hidden\" name=\"Quiz[85][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7653,7 +7653,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[86][id]\"
             value=\"6721a5d1e275cbe0768e2d12\"
           />
-          <input type=\"hidden\" name=\"Quiz[86][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7770,7 +7770,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[87][id]\"
             value=\"6721a5d1e275cbe0768e2d13\"
           />
-          <input type=\"hidden\" name=\"Quiz[87][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7862,7 +7862,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[88][id]\"
             value=\"6721a5d1e275cbe0768e2d14\"
           />
-          <input type=\"hidden\" name=\"Quiz[88][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -7941,7 +7941,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[89][id]\"
             value=\"6721a5d1e275cbe0768e2d15\"
           />
-          <input type=\"hidden\" name=\"Quiz[89][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 90: Chọn câu đúng:</strong></span
@@ -8025,7 +8025,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[90][id]\"
             value=\"6721a5d1e275cbe0768e2d16\"
           />
-          <input type=\"hidden\" name=\"Quiz[90][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8117,7 +8117,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[91][id]\"
             value=\"6721a5d1e275cbe0768e2d17\"
           />
-          <input type=\"hidden\" name=\"Quiz[91][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8202,7 +8202,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[92][id]\"
             value=\"6721a5d1e275cbe0768e2d18\"
           />
-          <input type=\"hidden\" name=\"Quiz[92][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8295,7 +8295,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[93][id]\"
             value=\"6721a5d1e275cbe0768e2d19\"
           />
-          <input type=\"hidden\" name=\"Quiz[93][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8383,7 +8383,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[94][id]\"
             value=\"6721a5d1e275cbe0768e2d1a\"
           />
-          <input type=\"hidden\" name=\"Quiz[94][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8466,7 +8466,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[95][id]\"
             value=\"6721a5d1e275cbe0768e2d1b\"
           />
-          <input type=\"hidden\" name=\"Quiz[95][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8549,7 +8549,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[96][id]\"
             value=\"6721a5d1e275cbe0768e2d1c\"
           />
-          <input type=\"hidden\" name=\"Quiz[96][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8634,7 +8634,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[97][id]\"
             value=\"6721a5d1e275cbe0768e2d1d\"
           />
-          <input type=\"hidden\" name=\"Quiz[97][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8725,7 +8725,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[98][id]\"
             value=\"6721a5d1e275cbe0768e2d1e\"
           />
-          <input type=\"hidden\" name=\"Quiz[98][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8817,7 +8817,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[99][id]\"
             value=\"6721a5d1e275cbe0768e2d1f\"
           />
-          <input type=\"hidden\" name=\"Quiz[99][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8902,7 +8902,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[100][id]\"
             value=\"6721a5d1e275cbe0768e2d20\"
           />
-          <input type=\"hidden\" name=\"Quiz[100][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -8996,7 +8996,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[101][id]\"
             value=\"6721a5d1e275cbe0768e2d21\"
           />
-          <input type=\"hidden\" name=\"Quiz[101][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9081,7 +9081,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[102][id]\"
             value=\"6721a5d1e275cbe0768e2d22\"
           />
-          <input type=\"hidden\" name=\"Quiz[102][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9165,7 +9165,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[103][id]\"
             value=\"6721a5d1e275cbe0768e2d23\"
           />
-          <input type=\"hidden\" name=\"Quiz[103][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9249,7 +9249,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[104][id]\"
             value=\"6721a5d1e275cbe0768e2d24\"
           />
-          <input type=\"hidden\" name=\"Quiz[104][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9341,7 +9341,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[105][id]\"
             value=\"6721a5d1e275cbe0768e2d25\"
           />
-          <input type=\"hidden\" name=\"Quiz[105][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9426,7 +9426,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[106][id]\"
             value=\"6721a5d1e275cbe0768e2d26\"
           />
-          <input type=\"hidden\" name=\"Quiz[106][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9511,7 +9511,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[107][id]\"
             value=\"6721a5d1e275cbe0768e2d27\"
           />
-          <input type=\"hidden\" name=\"Quiz[107][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9601,7 +9601,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[108][id]\"
             value=\"6721a5d1e275cbe0768e2d28\"
           />
-          <input type=\"hidden\" name=\"Quiz[108][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9688,7 +9688,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[109][id]\"
             value=\"6721a5d1e275cbe0768e2d29\"
           />
-          <input type=\"hidden\" name=\"Quiz[109][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9779,7 +9779,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[110][id]\"
             value=\"6721a5d1e275cbe0768e2d2a\"
           />
-          <input type=\"hidden\" name=\"Quiz[110][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9864,7 +9864,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[111][id]\"
             value=\"6721a5d1e275cbe0768e2d2b\"
           />
-          <input type=\"hidden\" name=\"Quiz[111][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -9948,7 +9948,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[112][id]\"
             value=\"6721a5d1e275cbe0768e2d2c\"
           />
-          <input type=\"hidden\" name=\"Quiz[112][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 113: Cho nhánh động mạch vị phải.</strong></span
@@ -10030,7 +10030,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[113][id]\"
             value=\"6721a5d1e275cbe0768e2d2d\"
           />
-          <input type=\"hidden\" name=\"Quiz[113][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10114,7 +10114,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[114][id]\"
             value=\"6721a5d1e275cbe0768e2d2e\"
           />
-          <input type=\"hidden\" name=\"Quiz[114][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10199,7 +10199,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[115][id]\"
             value=\"6721a5d1e275cbe0768e2d2f\"
           />
-          <input type=\"hidden\" name=\"Quiz[115][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10284,7 +10284,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[116][id]\"
             value=\"6721a5d1e275cbe0768e2d30\"
           />
-          <input type=\"hidden\" name=\"Quiz[116][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10369,7 +10369,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[117][id]\"
             value=\"6721a5d1e275cbe0768e2d31\"
           />
-          <input type=\"hidden\" name=\"Quiz[117][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10454,7 +10454,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[118][id]\"
             value=\"6721a5d1e275cbe0768e2d32\"
           />
-          <input type=\"hidden\" name=\"Quiz[118][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10543,7 +10543,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[119][id]\"
             value=\"6721a5d1e275cbe0768e2d33\"
           />
-          <input type=\"hidden\" name=\"Quiz[119][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10634,7 +10634,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[120][id]\"
             value=\"6721a5d1e275cbe0768e2d34\"
           />
-          <input type=\"hidden\" name=\"Quiz[120][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10726,7 +10726,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[121][id]\"
             value=\"6721a5d1e275cbe0768e2d35\"
           />
-          <input type=\"hidden\" name=\"Quiz[121][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10811,7 +10811,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[122][id]\"
             value=\"6721a5d1e275cbe0768e2d36\"
           />
-          <input type=\"hidden\" name=\"Quiz[122][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10902,7 +10902,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[123][id]\"
             value=\"6721a5d1e275cbe0768e2d37\"
           />
-          <input type=\"hidden\" name=\"Quiz[123][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -10987,7 +10987,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[124][id]\"
             value=\"6721a5d1e275cbe0768e2d38\"
           />
-          <input type=\"hidden\" name=\"Quiz[124][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11072,7 +11072,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[125][id]\"
             value=\"6721a5d1e275cbe0768e2d39\"
           />
-          <input type=\"hidden\" name=\"Quiz[125][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11157,7 +11157,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[126][id]\"
             value=\"6721a5d1e275cbe0768e2d3a\"
           />
-          <input type=\"hidden\" name=\"Quiz[126][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11242,7 +11242,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[127][id]\"
             value=\"6721a5d1e275cbe0768e2d3b\"
           />
-          <input type=\"hidden\" name=\"Quiz[127][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11327,7 +11327,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[128][id]\"
             value=\"6721a5d1e275cbe0768e2d3c\"
           />
-          <input type=\"hidden\" name=\"Quiz[128][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11411,7 +11411,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[129][id]\"
             value=\"6721a5d1e275cbe0768e2d3d\"
           />
-          <input type=\"hidden\" name=\"Quiz[129][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11504,7 +11504,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[130][id]\"
             value=\"6721a5d1e275cbe0768e2d3e\"
           />
-          <input type=\"hidden\" name=\"Quiz[130][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11597,7 +11597,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[131][id]\"
             value=\"6721a5d1e275cbe0768e2d3f\"
           />
-          <input type=\"hidden\" name=\"Quiz[131][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11690,7 +11690,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[132][id]\"
             value=\"6721a5d1e275cbe0768e2d40\"
           />
-          <input type=\"hidden\" name=\"Quiz[132][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11775,7 +11775,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[133][id]\"
             value=\"6721a5d1e275cbe0768e2d41\"
           />
-          <input type=\"hidden\" name=\"Quiz[133][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11860,7 +11860,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[134][id]\"
             value=\"6721a5d1e275cbe0768e2d42\"
           />
-          <input type=\"hidden\" name=\"Quiz[134][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -11945,7 +11945,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[135][id]\"
             value=\"6721a5d1e275cbe0768e2d43\"
           />
-          <input type=\"hidden\" name=\"Quiz[135][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12030,7 +12030,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[136][id]\"
             value=\"6721a5d1e275cbe0768e2d44\"
           />
-          <input type=\"hidden\" name=\"Quiz[136][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12123,7 +12123,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[137][id]\"
             value=\"6721a5d1e275cbe0768e2d45\"
           />
-          <input type=\"hidden\" name=\"Quiz[137][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12213,7 +12213,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[138][id]\"
             value=\"6721a5d1e275cbe0768e2d46\"
           />
-          <input type=\"hidden\" name=\"Quiz[138][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12305,7 +12305,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[139][id]\"
             value=\"6721a5d1e275cbe0768e2d47\"
           />
-          <input type=\"hidden\" name=\"Quiz[139][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12388,7 +12388,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[140][id]\"
             value=\"6721a5d1e275cbe0768e2d48\"
           />
-          <input type=\"hidden\" name=\"Quiz[140][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12479,7 +12479,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[141][id]\"
             value=\"6721a5d1e275cbe0768e2d49\"
           />
-          <input type=\"hidden\" name=\"Quiz[141][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12563,7 +12563,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[142][id]\"
             value=\"6721a5d1e275cbe0768e2d4a\"
           />
-          <input type=\"hidden\" name=\"Quiz[142][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12647,7 +12647,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[143][id]\"
             value=\"6721a5d1e275cbe0768e2d4b\"
           />
-          <input type=\"hidden\" name=\"Quiz[143][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12730,7 +12730,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[144][id]\"
             value=\"6721a5d1e275cbe0768e2d4c\"
           />
-          <input type=\"hidden\" name=\"Quiz[144][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12811,7 +12811,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[145][id]\"
             value=\"6721a5d1e275cbe0768e2d4d\"
           />
-          <input type=\"hidden\" name=\"Quiz[145][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12896,7 +12896,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[146][id]\"
             value=\"6721a5d1e275cbe0768e2d4e\"
           />
-          <input type=\"hidden\" name=\"Quiz[146][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -12988,7 +12988,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[147][id]\"
             value=\"6721a5d1e275cbe0768e2d4f\"
           />
-          <input type=\"hidden\" name=\"Quiz[147][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13071,7 +13071,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[148][id]\"
             value=\"6721a5d1e275cbe0768e2d50\"
           />
-          <input type=\"hidden\" name=\"Quiz[148][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13154,7 +13154,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[149][id]\"
             value=\"6721a5d1e275cbe0768e2d51\"
           />
-          <input type=\"hidden\" name=\"Quiz[149][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13237,7 +13237,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[150][id]\"
             value=\"6721a5d1e275cbe0768e2d52\"
           />
-          <input type=\"hidden\" name=\"Quiz[150][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13329,7 +13329,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[151][id]\"
             value=\"6721a5d1e275cbe0768e2d53\"
           />
-          <input type=\"hidden\" name=\"Quiz[151][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13414,7 +13414,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[152][id]\"
             value=\"6721a5d1e275cbe0768e2d54\"
           />
-          <input type=\"hidden\" name=\"Quiz[152][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 153: Động mạch bịt là nhánh của?</strong></span
@@ -13494,7 +13494,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[153][id]\"
             value=\"6721a5d1e275cbe0768e2d55\"
           />
-          <input type=\"hidden\" name=\"Quiz[153][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13578,7 +13578,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[154][id]\"
             value=\"6721a5d1e275cbe0768e2d56\"
           />
-          <input type=\"hidden\" name=\"Quiz[154][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13670,7 +13670,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[155][id]\"
             value=\"6721a5d1e275cbe0768e2d57\"
           />
-          <input type=\"hidden\" name=\"Quiz[155][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13754,7 +13754,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[156][id]\"
             value=\"6721a5d1e275cbe0768e2d58\"
           />
-          <input type=\"hidden\" name=\"Quiz[156][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -13839,7 +13839,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[157][id]\"
             value=\"6721a5d1e275cbe0768e2d59\"
           />
-          <input type=\"hidden\" name=\"Quiz[157][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 158: Tĩnh mạch đùi?</strong></span
@@ -13930,7 +13930,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[158][id]\"
             value=\"6721a5d1e275cbe0768e2d5a\"
           />
-          <input type=\"hidden\" name=\"Quiz[158][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 159: Tĩnh mạch hiển bé đổ vào?</strong></span
@@ -14010,7 +14010,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[159][id]\"
             value=\"6721a5d1e275cbe0768e2d5b\"
           />
-          <input type=\"hidden\" name=\"Quiz[159][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14095,7 +14095,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[160][id]\"
             value=\"6721a5d1e275cbe0768e2d5c\"
           />
-          <input type=\"hidden\" name=\"Quiz[160][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14178,7 +14178,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[161][id]\"
             value=\"6721a5d1e275cbe0768e2d5d\"
           />
-          <input type=\"hidden\" name=\"Quiz[161][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14261,7 +14261,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[162][id]\"
             value=\"6721a5d1e275cbe0768e2d5e\"
           />
-          <input type=\"hidden\" name=\"Quiz[162][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14353,7 +14353,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[163][id]\"
             value=\"6721a5d1e275cbe0768e2d5f\"
           />
-          <input type=\"hidden\" name=\"Quiz[163][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 164: Tĩnh mạch hiển lớn bắt đầu từ?</strong></span
@@ -14433,7 +14433,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[164][id]\"
             value=\"6721a5d1e275cbe0768e2d60\"
           />
-          <input type=\"hidden\" name=\"Quiz[164][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14515,7 +14515,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[165][id]\"
             value=\"6721a5d1e275cbe0768e2d61\"
           />
-          <input type=\"hidden\" name=\"Quiz[165][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14600,7 +14600,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[166][id]\"
             value=\"6721a5d1e275cbe0768e2d62\"
           />
-          <input type=\"hidden\" name=\"Quiz[166][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14685,7 +14685,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[167][id]\"
             value=\"6721a5d1e275cbe0768e2d63\"
           />
-          <input type=\"hidden\" name=\"Quiz[167][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14778,7 +14778,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[168][id]\"
             value=\"6721a5d1e275cbe0768e2d64\"
           />
-          <input type=\"hidden\" name=\"Quiz[168][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14861,7 +14861,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[169][id]\"
             value=\"6721a5d1e275cbe0768e2d65\"
           />
-          <input type=\"hidden\" name=\"Quiz[169][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -14945,7 +14945,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[170][id]\"
             value=\"6721a5d1e275cbe0768e2d66\"
           />
-          <input type=\"hidden\" name=\"Quiz[170][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15042,7 +15042,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[171][id]\"
             value=\"6721a5d1e275cbe0768e2d67\"
           />
-          <input type=\"hidden\" name=\"Quiz[171][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15136,7 +15136,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[172][id]\"
             value=\"6721a5d1e275cbe0768e2d68\"
           />
-          <input type=\"hidden\" name=\"Quiz[172][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15226,7 +15226,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[173][id]\"
             value=\"6721a5d1e275cbe0768e2d69\"
           />
-          <input type=\"hidden\" name=\"Quiz[173][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 174: Động mạch mũ mác là nhánh của?</strong></span
@@ -15306,7 +15306,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[174][id]\"
             value=\"6721a5d1e275cbe0768e2d6a\"
           />
-          <input type=\"hidden\" name=\"Quiz[174][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15383,7 +15383,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[175][id]\"
             value=\"6721a5d1e275cbe0768e2d6b\"
           />
-          <input type=\"hidden\" name=\"Quiz[175][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15467,7 +15467,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[176][id]\"
             value=\"6721a5d1e275cbe0768e2d6c\"
           />
-          <input type=\"hidden\" name=\"Quiz[176][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15552,7 +15552,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[177][id]\"
             value=\"6721a5d1e275cbe0768e2d6d\"
           />
-          <input type=\"hidden\" name=\"Quiz[177][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15637,7 +15637,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[178][id]\"
             value=\"6721a5d1e275cbe0768e2d6e\"
           />
-          <input type=\"hidden\" name=\"Quiz[178][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15720,7 +15720,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[179][id]\"
             value=\"6721a5d1e275cbe0768e2d6f\"
           />
-          <input type=\"hidden\" name=\"Quiz[179][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15805,7 +15805,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[180][id]\"
             value=\"6721a5d1e275cbe0768e2d70\"
           />
-          <input type=\"hidden\" name=\"Quiz[180][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15897,7 +15897,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[181][id]\"
             value=\"6721a5d1e275cbe0768e2d71\"
           />
-          <input type=\"hidden\" name=\"Quiz[181][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -15980,7 +15980,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[182][id]\"
             value=\"6721a5d1e275cbe0768e2cbb\"
           />
-          <input type=\"hidden\" name=\"Quiz[182][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -16083,7 +16083,10 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             <p>
               <img
                 style=\"width: 100%\"
-                src=\" /static/unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-4.jpg \"
+                src=\"";
+        // line 16045
+        yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(static_url("unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-4.jpg"), "html", null, true);
+        yield "\"
               />
             </p>
             <div class=\"text-error\">(0/1)</div>
@@ -16161,7 +16164,10 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             <p>
               <img
                 style=\"width: 100%\"
-                src=\" /static/unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-3.jpg \"
+                src=\"";
+        // line 16123
+        yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(static_url("unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-3.jpg"), "html", null, true);
+        yield "\"
               />
             </p>
             <div class=\"text-error\">(0/1)</div>
@@ -16241,7 +16247,10 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             <p>
               <img
                 style=\"width: 100%\"
-                src=\" /static/unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-2.jpg \"
+                src=\"";
+        // line 16203
+        yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(static_url("unica.vn_storage/85a5243a7a06f0326d6b7422cceee1c6c129686e/download-1-2.jpg"), "html", null, true);
+        yield "\"
               />
             </p>
             <div class=\"text-error\">(0/1)</div>
@@ -16301,7 +16310,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[186][id]\"
             value=\"672114f6e275cb18208e2cc1\"
           />
-          <input type=\"hidden\" name=\"Quiz[186][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -16385,7 +16394,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[187][id]\"
             value=\"672114f6e275cb18208e2cc4\"
           />
-          <input type=\"hidden\" name=\"Quiz[187][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -16485,7 +16494,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[188][id]\"
             value=\"672114f6e275cb18208e2cc6\"
           />
-          <input type=\"hidden\" name=\"Quiz[188][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -16734,7 +16743,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[189][id]\"
             value=\"672114f6e275cb18208e2cc7\"
           />
-          <input type=\"hidden\" name=\"Quiz[189][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -16996,7 +17005,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[190][id]\"
             value=\"672114f6e275cb18208e2cc8\"
           />
-          <input type=\"hidden\" name=\"Quiz[190][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -17248,7 +17257,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[191][id]\"
             value=\"672114f6e275cb18208e2cc9\"
           />
-          <input type=\"hidden\" name=\"Quiz[191][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -17500,7 +17509,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[192][id]\"
             value=\"672114f6e275cb18208e2ccb\"
           />
-          <input type=\"hidden\" name=\"Quiz[192][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -17749,7 +17758,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[193][id]\"
             value=\"672114f6e275cb18208e2ccc\"
           />
-          <input type=\"hidden\" name=\"Quiz[193][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -18006,7 +18015,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[194][id]\"
             value=\"672114f6e275cb18208e2ccd\"
           />
-          <input type=\"hidden\" name=\"Quiz[194][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -18273,7 +18282,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[195][id]\"
             value=\"672114f6e275cb18208e2cce\"
           />
-          <input type=\"hidden\" name=\"Quiz[195][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -18528,7 +18537,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[196][id]\"
             value=\"672114f6e275cb18208e2ccf\"
           />
-          <input type=\"hidden\" name=\"Quiz[196][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -18786,7 +18795,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[197][id]\"
             value=\"672114f6e275cb18208e2cd0\"
           />
-          <input type=\"hidden\" name=\"Quiz[197][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -19046,7 +19055,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[198][id]\"
             value=\"672114f6e275cb18208e2cd1\"
           />
-          <input type=\"hidden\" name=\"Quiz[198][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -19295,7 +19304,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[199][id]\"
             value=\"672114f6e275cb18208e2cd2\"
           />
-          <input type=\"hidden\" name=\"Quiz[199][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -19539,7 +19548,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[200][id]\"
             value=\"672114f6e275cb18208e2cd3\"
           />
-          <input type=\"hidden\" name=\"Quiz[200][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -19800,7 +19809,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[201][id]\"
             value=\"67210954e275cb0f5f8e2ced\"
           />
-          <input type=\"hidden\" name=\"Quiz[201][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 202: Tim và màng ngoài tim nằm trong</strong></span
@@ -19882,7 +19891,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[202][id]\"
             value=\"67210954e275cb0f5f8e2cee\"
           />
-          <input type=\"hidden\" name=\"Quiz[202][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -19975,7 +19984,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[203][id]\"
             value=\"67210954e275cb0f5f8e2cef\"
           />
-          <input type=\"hidden\" name=\"Quiz[203][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -20067,7 +20076,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[204][id]\"
             value=\"67210954e275cb0f5f8e2cf0\"
           />
-          <input type=\"hidden\" name=\"Quiz[204][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -20152,7 +20161,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[205][id]\"
             value=\"67210954e275cb0f5f8e2cf1\"
           />
-          <input type=\"hidden\" name=\"Quiz[205][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -20234,7 +20243,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[206][id]\"
             value=\"67210954e275cb0f5f8e2cf2\"
           />
-          <input type=\"hidden\" name=\"Quiz[206][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 207: Các động mạch vành</strong></span
@@ -20324,7 +20333,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[207][id]\"
             value=\"67210954e275cb0f5f8e2cf3\"
           />
-          <input type=\"hidden\" name=\"Quiz[207][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -20407,7 +20416,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[208][id]\"
             value=\"67210954e275cb0f5f8e2cf4\"
           />
-          <input type=\"hidden\" name=\"Quiz[208][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -20500,7 +20509,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[209][id]\"
             value=\"67210954e275cb0f5f8e2cf5\"
           />
-          <input type=\"hidden\" name=\"Quiz[209][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 210: Nút xoang nhĩ</strong></span
@@ -20589,7 +20598,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[210][id]\"
             value=\"67210954e275cb0f5f8e2cf6\"
           />
-          <input type=\"hidden\" name=\"Quiz[210][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -20674,7 +20683,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[211][id]\"
             value=\"67210954e275cb0f5f8e2cf7\"
           />
-          <input type=\"hidden\" name=\"Quiz[211][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 212: Rãnh tận cùng.</strong></span
@@ -20765,7 +20774,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[212][id]\"
             value=\"67210954e275cb0f5f8e2cf8\"
           />
-          <input type=\"hidden\" name=\"Quiz[212][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"><strong>Câu 213: Hố bầu dục.</strong></span
             ><br />
@@ -20846,7 +20855,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[213][id]\"
             value=\"67210954e275cb0f5f8e2cf9\"
           />
-          <input type=\"hidden\" name=\"Quiz[213][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -20936,7 +20945,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[214][id]\"
             value=\"67210954e275cb0f5f8e2cfa\"
           />
-          <input type=\"hidden\" name=\"Quiz[214][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong>Câu 215: Rãnh gian nhĩ nằm ở đâu?</strong></span
@@ -21010,7 +21019,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[215][id]\"
             value=\"67210954e275cb0f5f8e2cfb\"
           />
-          <input type=\"hidden\" name=\"Quiz[215][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21102,7 +21111,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[216][id]\"
             value=\"67210954e275cb0f5f8e2cfc\"
           />
-          <input type=\"hidden\" name=\"Quiz[216][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21196,7 +21205,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[217][id]\"
             value=\"67210954e275cb0f5f8e2cfd\"
           />
-          <input type=\"hidden\" name=\"Quiz[217][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21286,7 +21295,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[218][id]\"
             value=\"67210954e275cb0f5f8e2cfe\"
           />
-          <input type=\"hidden\" name=\"Quiz[218][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21368,7 +21377,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[219][id]\"
             value=\"67210954e275cb0f5f8e2cff\"
           />
-          <input type=\"hidden\" name=\"Quiz[219][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21460,7 +21469,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[220][id]\"
             value=\"67210954e275cb0f5f8e2d00\"
           />
-          <input type=\"hidden\" name=\"Quiz[220][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21549,7 +21558,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[221][id]\"
             value=\"67210954e275cb0f5f8e2d01\"
           />
-          <input type=\"hidden\" name=\"Quiz[221][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21634,7 +21643,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[222][id]\"
             value=\"67210954e275cb0f5f8e2d02\"
           />
-          <input type=\"hidden\" name=\"Quiz[222][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21715,7 +21724,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[223][id]\"
             value=\"67210954e275cb0f5f8e2d03\"
           />
-          <input type=\"hidden\" name=\"Quiz[223][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21799,7 +21808,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[224][id]\"
             value=\"67210954e275cb0f5f8e2d04\"
           />
-          <input type=\"hidden\" name=\"Quiz[224][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21895,7 +21904,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[225][id]\"
             value=\"67210954e275cb0f5f8e2d05\"
           />
-          <input type=\"hidden\" name=\"Quiz[225][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -21978,7 +21987,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[226][id]\"
             value=\"67210954e275cb0f5f8e2d06\"
           />
-          <input type=\"hidden\" name=\"Quiz[226][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22055,7 +22064,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[227][id]\"
             value=\"67210954e275cb0f5f8e2d07\"
           />
-          <input type=\"hidden\" name=\"Quiz[227][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22148,7 +22157,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[228][id]\"
             value=\"67210954e275cb0f5f8e2d08\"
           />
-          <input type=\"hidden\" name=\"Quiz[228][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22241,7 +22250,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[229][id]\"
             value=\"67210954e275cb0f5f8e2d09\"
           />
-          <input type=\"hidden\" name=\"Quiz[229][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22337,7 +22346,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[230][id]\"
             value=\"67210954e275cb0f5f8e2d0a\"
           />
-          <input type=\"hidden\" name=\"Quiz[230][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22418,7 +22427,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[231][id]\"
             value=\"67210954e275cb0f5f8e2d0b\"
           />
-          <input type=\"hidden\" name=\"Quiz[231][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22503,7 +22512,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[232][id]\"
             value=\"67210954e275cb0f5f8e2d0c\"
           />
-          <input type=\"hidden\" name=\"Quiz[232][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22593,7 +22602,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[233][id]\"
             value=\"67210954e275cb0f5f8e2d0d\"
           />
-          <input type=\"hidden\" name=\"Quiz[233][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22682,7 +22691,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[234][id]\"
             value=\"67210954e275cb0f5f8e2d0e\"
           />
-          <input type=\"hidden\" name=\"Quiz[234][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22774,7 +22783,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[235][id]\"
             value=\"67210954e275cb0f5f8e2d0f\"
           />
-          <input type=\"hidden\" name=\"Quiz[235][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22859,7 +22868,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[236][id]\"
             value=\"67210954e275cb0f5f8e2d10\"
           />
-          <input type=\"hidden\" name=\"Quiz[236][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -22949,7 +22958,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[237][id]\"
             value=\"67210954e275cb0f5f8e2d11\"
           />
-          <input type=\"hidden\" name=\"Quiz[237][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -23033,7 +23042,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[238][id]\"
             value=\"67210954e275cb0f5f8e2d12\"
           />
-          <input type=\"hidden\" name=\"Quiz[238][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -23123,7 +23132,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[239][id]\"
             value=\"67210954e275cb0f5f8e2d13\"
           />
-          <input type=\"hidden\" name=\"Quiz[239][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -23214,7 +23223,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[240][id]\"
             value=\"67210954e275cb0f5f8e2d14\"
           />
-          <input type=\"hidden\" name=\"Quiz[240][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -23309,7 +23318,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[241][id]\"
             value=\"67210954e275cb0f5f8e2d15\"
           />
-          <input type=\"hidden\" name=\"Quiz[241][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -23390,7 +23399,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[242][id]\"
             value=\"67210954e275cb0f5f8e2d16\"
           />
-          <input type=\"hidden\" name=\"Quiz[242][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -23475,7 +23484,7 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
             name=\"Quiz[243][id]\"
             value=\"67210954e275cb0f5f8e2d17\"
           />
-          <input type=\"hidden\" name=\"Quiz[243][sort]\" value=\"\" />
+          
           <div class=\"w3-large\">
             <span class=\"quiz-title\"
               ><strong
@@ -23562,9 +23571,17 @@ class __TwigTemplate_f8b9880d1b96e0f02fed9af78cf8f4d9 extends Template
     /**
      * @codeCoverageIgnore
      */
+    public function isTraitable(): bool
+    {
+        return false;
+    }
+
+    /**
+     * @codeCoverageIgnore
+     */
     public function getDebugInfo(): array
     {
-        return array (  42 => 1,);
+        return array (  16252 => 16203,  16169 => 16123,  16088 => 16045,  42 => 1,);
     }
 
     public function getSourceContext(): Source

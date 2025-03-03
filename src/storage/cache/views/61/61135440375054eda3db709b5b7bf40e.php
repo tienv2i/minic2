@@ -81,86 +81,115 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
         div.quiz-note img{
             width: 100%;
         }
+        div.w3-large {
+            margin-bottom: 10px;
+        }
+        button.quiz-button {
+            margin-right: 10px;
+        }
     </style>
     <title>";
-        // line 33
+        // line 39
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(((array_key_exists("page_title", $context)) ? (Twig\Extension\CoreExtension::default(($context["page_title"] ?? null), "Minic 2")) : ("Minic 2")), "html", null, true);
         yield "</title>
     ";
-        // line 34
+        // line 40
         yield from $this->unwrap()->yieldBlock('link_tags', $context, $blocks);
-        // line 35
+        // line 41
         yield "    <script>
-            \$(document).ready(function () {
-                window.show_answer = false;
+        function toggle_all_answer () {
+            window.show_answer = !window.show_answer;
+            let newStatus = window.show_answer ? \"true\" : \"false\";
+            
+            \$(\".block-quiz-test\").each(function() {
+                \$(this).attr(\"data-show_answers\", newStatus);
                 
-                \$ ('#toggle_answer').click(function () {
-                    if (window.show_answer === true) {
-                        \$ ('#toggle_answer').text('Show answers').removeClass('btn-danger').addClass('btn-primary');
-                        \$ ('i.text-success').addClass('hidden');
-                        \$ ('div.quiz_note').addClass('hidden');
-                        \$ ('label.right-answer').removeClass('text-border-success');
-                        window.show_answer = false
-                    } else {
-                        \$ ('#toggle_answer').text('Hide answers').removeClass('btn-primary').addClass('btn-danger');
-                        \$ ('i.text-success').removeClass('hidden');
-                        \$ ('div.quiz_note').removeClass('hidden');
-                        \$ ('label.right-answer').addClass('text-border-success');
-                        window.show_answer = true
-                    }
-                });
-
-                // Kiểm tra phần tử có nằm trong viewport không
-                function isElementInViewport(el) {
-                    var rect = el.getBoundingClientRect();
-                    return rect.top < window.innerHeight && rect.bottom > 0;
+                if (newStatus === \"true\") {
+                    \$(this).find(\"i.text-success\").removeClass(\"hidden\");
+                    \$(this).find(\"div.quiz_note\").removeClass(\"hidden\");
+                    \$(this).find(\"label.right-answer\").addClass(\"text-border-success\");
+                    \$(\".quiz-button\").addClass('btn-danger').removeClass('btn-primary').html('<i class=\"fa fa-times\"></i>');
+                } else {
+                    \$(this).find(\"i.text-success\").addClass(\"hidden\");
+                    \$(this).find(\"div.quiz_note\").addClass(\"hidden\");
+                    \$(this).find(\"label.right-answer\").removeClass(\"text-border-success\");
+                    \$(\".quiz-button\").addClass('btn-primary').removeClass('btn-danger').html('<i class=\"fa fa-check-circle\"></i>');
                 }
-                window.isElInVp = isElementInViewport;
-                
-                // Xử lý sự kiện khi nhấn nút \"Show Current Answer\"
-                \$('#showCurrentAnswer').click(function () {
-                    \$('.quiz-item').each(function () {
-                        if (isElementInViewport(this)) {
-                            \$(this).find('i.text-success').removeClass('hidden');
-                            \$(this).find('div.quiz_note').removeClass('hidden');
-                            \$(this).find('label.right-answer').addClass('text-border-success');
-                        }
-                    });
-                });
             });
+            
+            \$(\"#toggle_answer\").text(window.show_answer ? \"Hide all answers\" : \"Show all answers\")
+                .toggleClass(\"btn-danger btn-primary\");
+        }
 
+        \$(document).keydown(function(event) {
+            if (event.which === 32) { 
+                event.preventDefault();
+                toggle_all_answer();
+            }
+        });
+
+        \$(document).ready(function() {
+            
+        window.show_answer = false;
+        
+        \$(\"#toggle_answer\").click(function() {
+            toggle_all_answer();
+        });
+        
+        \$(\".quiz-button\").click(function() {
+            let questionNumber = \$(this).attr(\"data-question\");
+            let quizBlock = \$(\".block-quiz-test[data-question-number='\" + questionNumber + \"']\");
+            
+            if (quizBlock.length) {
+                let currentStatus = quizBlock.attr(\"data-show_answers\");
+                let newStatus = currentStatus === \"true\" ? \"false\" : \"true\";
+                quizBlock.attr(\"data-show_answers\", newStatus);
+                
+                if (newStatus === \"true\") {
+                    quizBlock.find(\"i.text-success\").removeClass(\"hidden\");
+                    quizBlock.find(\"div.quiz_note\").removeClass(\"hidden\");
+                    quizBlock.find(\"label.right-answer\").addClass(\"text-border-success\");
+                    \$(this).addClass('btn-danger').removeClass('btn-primary').html('<i class=\"fa fa-times\"></i>');
+                } else {
+                    quizBlock.find(\"i.text-success\").addClass(\"hidden\");
+                    quizBlock.find(\"div.quiz_note\").addClass(\"hidden\");
+                    quizBlock.find(\"label.right-answer\").removeClass(\"text-border-success\");
+                    \$(this).addClass('btn-primary').removeClass('btn-danger').html('<i class=\"fa fa-check-circle\"></i>');
+                }
+            }
+        });
+    });
             
     </script>
 </head>
 <body>
 
     ";
-        // line 79
-        yield from $this->loadTemplate((("quizz/contents/" . ($context["content_file"] ?? null)) . ".html"), "quizz/quizz.html", 79)->unwrap()->yield($context);
-        // line 80
+        // line 109
+        yield from $this->loadTemplate((("quizz/contents_2/" . ($context["content_file"] ?? null)) . ".html"), "quizz/quizz.html", 109)->unwrap()->yield($context);
+        // line 110
         yield "
     <div class=\"position-fixed fixed-bottom bg-white py-2 border-top no-print\">
         <div class=\"container text-center\" style=\"max-width: 720px;\">
             <a href=\"";
-        // line 83
+        // line 113
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(base_url("quizz"), "html", null, true);
         yield "\" class=\"btn btn-primary text-white\"><i class=\"fa fa-home\"> </i></a>
-            <button type=\"button\" class=\"btn btn-primary\" id=\"showCurrentAnswer\">Show Current answer</button>
-            <button type=\"button\" class=\"btn btn-primary\" id=\"toggle_answer\">Show answer</button>
+            <button type=\"button\" class=\"btn btn-primary\" id=\"toggle_answer\">Show all answer</button>
             <buttton class=\"btn btn-success\" onclick=\"window.scrollTo({ top: 0, behavior: 'smooth' });\" alt=\"Scroll to top\"><i class=\"fa fa-arrow-up\"> </i></buttton>
             <buttton class=\"btn btn-success\" onclick=\"window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });\" alt=\"Scroll to top\"><i class=\"fa fa-arrow-down\"> </i></buttton>
         </div>
     </div>
     ";
-        // line 90
+        // line 119
         yield from $this->unwrap()->yieldBlock('script_tags', $context, $blocks);
-        // line 91
+        // line 120
         yield "</body>
 </html>";
         yield from [];
     }
 
-    // line 34
+    // line 40
     /**
      * @return iterable<null|scalar|\Stringable>
      */
@@ -170,7 +199,7 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
         yield from [];
     }
 
-    // line 90
+    // line 119
     /**
      * @return iterable<null|scalar|\Stringable>
      */
@@ -201,7 +230,7 @@ class __TwigTemplate_103590004c2da39f304d25430e6fae0d extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  174 => 90,  164 => 34,  158 => 91,  156 => 90,  146 => 83,  141 => 80,  139 => 79,  93 => 35,  91 => 34,  87 => 33,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
+        return array (  203 => 119,  193 => 40,  187 => 120,  185 => 119,  176 => 113,  171 => 110,  169 => 109,  99 => 41,  97 => 40,  93 => 39,  61 => 10,  57 => 9,  52 => 7,  44 => 1,);
     }
 
     public function getSourceContext(): Source
